@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24f89d2d2d6beff5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bae4997740878954",
             "type": "leaf",
             "state": {
@@ -40,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +191,18 @@
   },
   "active": "6ccfbdde45cf2f09",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230914025135.png",
+    "attachments/Pasted image 20230914024904.png",
+    "index.md",
+    "logic development.md",
+    "attachments/Pasted image 20230914024450.png",
+    "attachments/Pasted image 20230914024408.png",
+    "attachments/Pasted image 20230914024259.png",
     "attachments/Pasted image 20230914024033.png",
     "attachments/Pasted image 20230914023807.png",
     "attachments/Pasted image 20230914023524.png",
     "attachments/Pasted image 20230914023015.png",
     "attachments",
-    "index.md",
-    "logic development.md",
     "OOP/virtual.md",
     "OOP/Virtual inheritance..md",
     "OOP/Virtual function.md",
@@ -233,11 +230,6 @@
     "package.json v",
     "computer_science/Computer Science/Observer vs Pub Sub pattern 8ee1211922b645eca5aa0438adc11e2e/1_NcicKEqwUaI8VEc-Ejk6Dg.webp",
     "operating_system/Operating system/attachments/Pasted image 20230613163347.png",
-    "operating_system/Operating system/attachments/Pasted image 20230613163316.png",
-    "operating_system/Operating system/attachments/Pasted image 20230613163103.png",
-    "operating_system/Operating system/attachments/Pasted image 20230613162831.png",
-    "operating_system/Operating system/attachments/Pasted image 20230613162622.png",
-    "operating_system/Operating system/attachments/Pasted image 20230613162559.png",
     "operating_system/Operating system/attachments",
     "networking/attachments",
     "networking/Networking/attachments",

@@ -54,3 +54,34 @@ two modules have write access to the same global data.
 #### Control coupling
 - one module passes an element of control to the other. 
 - it is impossible for the controlled module to function without some direction from controlling module. 
+- ![[attachments/Pasted image 20230914024259.png]]
+
+#### Stamp coupling
+Data structure is passed as parameter, but the called module operates on only some of individual component. 
+
+![[attachments/Pasted image 20230914024408.png]]
+
+#### Data coupling
+Every argument is either a simple argument of a data structure in which all elements are used by the called module. 
+
+![[attachments/Pasted image 20230914024450.png]]
+
+here the called module use all the parameters to produce the output. 
+
+
+### Cohesion 
+- refers to dependence within & among the same module's internal elements. (e.g., data, functions, internal modules)
+- Greater the cohesion, the better is the program design. 
+- ![[attachments/Pasted image 20230914024904.png]]
+
+
+#### Co-incidental 
+module performs multiple, completely unrelated actions. 
+
+#### logical cohesion
+- elements perform similar tasks & the activities to be executed are chosen from outside the module. 
+- operations are related but the functions are significantly different. 
+- ![[attachments/Pasted image 20230914025135.png]]
+
+#### Temporal cohesion
+module's data & function are related because they are used at the same time in an execution. 
