@@ -55,9 +55,11 @@ two modules have write access to the same global data.
 - one module passes an element of control to the other. 
 - it is impossible for the controlled module to function without some direction from controlling module. 
 - ![[attachments/Pasted image 20230914024259.png]]
+- Only when controlled module get some directions from the controlled module, it performs the operations.
+- In above example on passing error flag, it displays the error. 
 
 #### Stamp coupling
-Data structure is passed as parameter, but the called module operates on only some of individual component. 
+Data structure is passed as parameter, but the called module operates on only some of the passed components. 
 
 ![[attachments/Pasted image 20230914024408.png]]
 
@@ -77,6 +79,7 @@ here the called module use all the parameters to produce the output.
 
 #### Co-incidental 
 module performs multiple, completely unrelated actions. 
+![[attachments/Pasted image 20230914034230.png]]
 
 #### logical cohesion
 - elements perform similar tasks & the activities to be executed are chosen from outside the module. 

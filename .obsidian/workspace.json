@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "logic development.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -191,6 +191,7 @@
   },
   "active": "6ccfbdde45cf2f09",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230914034230.png",
     "attachments/Pasted image 20230914025806.png",
     "attachments/Pasted image 20230914025716.png",
     "attachments/Pasted image 20230914025547.png",
@@ -203,7 +204,6 @@
     "attachments/Pasted image 20230914024450.png",
     "attachments/Pasted image 20230914024408.png",
     "attachments/Pasted image 20230914024259.png",
-    "attachments/Pasted image 20230914024033.png",
     "attachments",
     "OOP/virtual.md",
     "OOP/Virtual inheritance..md",
