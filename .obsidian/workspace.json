@@ -11,12 +11,8 @@
             "id": "24f89d2d2d6beff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Virtual function.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/Virtual function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/Virtual function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OOP/Virtual function.md"
-              }
+              "state": {}
             }
           },
           {
