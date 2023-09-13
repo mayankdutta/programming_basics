@@ -84,4 +84,25 @@ module performs multiple, completely unrelated actions.
 - ![[attachments/Pasted image 20230914025135.png]]
 
 #### Temporal cohesion
-module's data & function are related because they are used at the same time in an execution. 
+- module's data & function are related because they are used at the same time in an execution. 
+- elements are grouped by when they are processed. 
+- ![[attachments/Pasted image 20230914025317.png]]
+
+#### Procedural 
+- similar to temporal, & functions pertain to some related action or purpose. 
+- ![[attachments/Pasted image 20230914025501.png]]
+
+#### Communicational 
+module which has activities executed sequentially and work on same data. 
+
+![[attachments/Pasted image 20230914025547.png]]
+
+#### sequential 
+elements are involved in activities such that output data from one activity becomes input to next activity. 
+
+![[attachments/Pasted image 20230914025716.png]]
+
+#### Functional 
+- module performs exactly one action. 
+- highly recommended form of cohesion. 
+- ![[attachments/Pasted image 20230914025806.png]]
