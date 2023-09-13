@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "74742f2df9004ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "747f0ff6bea260ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f89d2d2d6beff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Virtual function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed068fd9866492da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c13891f6549977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c39f752821b9fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71feecc0d5cb2a6f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d2008b673238790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "032cafb9c9af87fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45008c6f50cda444",
+    "type": "split",
+    "children": [
+      {
+        "id": "02021a5885bbb9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b35f4f654295492d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OOP/Virtual function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abe73744ba8c6863",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OOP/Virtual function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c395b76d678cf855",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a04203ed376ec7c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OOP/Virtual function.md"
+              }
+            }
+          },
+          {
+            "id": "c30e43563a233669",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0b94d59dc9b3bd4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "24f89d2d2d6beff5",
+  "lastOpenFiles": [
+    "OOP/virtual.md",
+    "OOP/Virtual inheritance..md",
+    "OOP/Virtual function.md",
+    "OOP/OOP.md",
+    "OOP/inheritance.md",
+    "OOP/overriding vs overloading.md",
+    "Database/SQL Queries.md",
+    "Database/Database.md",
+    "react/React/Pure vs Impure function.md",
+    "react/React.md",
+    "JS/Object in JS.md",
+    "JS/JS.md",
+    "JS/Higher order functions.md",
+    "Database/Views.md",
+    "Database/DDL, DML, DCL.md",
+    "Database/keys in dbms.md",
+    "Database/Database/Indexing.md",
+    "Database/Database/Logical design of database.md",
+    "Database/Database/database & tables.md",
+    "Database/Database/DBMS and its types.md",
+    "react/React/useEffect and side-effects.md",
+    "react/HMR.md",
+    "react/bundlers.md",
+    "react/useRef.md",
+    "react/currying.md",
+    "react/React guidelines for updating state.md",
+    "package v",
+    "package.json v",
+    "computer_science/Computer Science/Observer vs Pub Sub pattern 8ee1211922b645eca5aa0438adc11e2e/1_NcicKEqwUaI8VEc-Ejk6Dg.webp",
+    "operating_system/Operating system/attachments/Pasted image 20230613163347.png",
+    "operating_system/Operating system/attachments/Pasted image 20230613163316.png",
+    "operating_system/Operating system/attachments/Pasted image 20230613163103.png",
+    "operating_system/Operating system/attachments/Pasted image 20230613162831.png",
+    "operating_system/Operating system/attachments/Pasted image 20230613162622.png",
+    "operating_system/Operating system/attachments/Pasted image 20230613162559.png",
+    "operating_system/Operating system/attachments",
+    "networking/attachments/Pasted image 20230412143424.png",
+    "networking/attachments/Pasted image 20230412143325.png",
+    "networking/attachments/Pasted image 20230412143301.png",
+    "networking/attachments",
+    "networking/Networking/attachments",
+    "Git/attachments",
+    "Untitled",
+    "Git",
+    "JS/attachments",
+    "Sanket singh",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
