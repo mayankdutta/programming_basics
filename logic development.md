@@ -22,4 +22,35 @@ A program is robust, if it can handle illegal inputs & other unexpected situatio
 	- Component indendence. 
 	- Fault prevention & fault tolerance. 
 	- design for change. 
-- With Poor mou
+- With Poor module design.
+	- hard to understand.
+	- hard to locate faults.
+	- difficult to extend or enhance. 
+- With good module design. 
+	- maximal relationships within modules. (*cohesion*).
+	- minimal relationships between modules. (*coupling*).
+- There should be
+	- High cohesion within the modules. 
+	- Loose coupling between modules. 
+
+![[attachments/Pasted image 20230914023524.png]]
+
+### coupling 
+- degree of interaction between two modules. 
+- **tightly coupled ->** depend on each other greatly. 
+- **Loosely coupled ->** have some dependency, but have weak interconnections. 
+
+![[attachments/Pasted image 20230914023807.png]]
+
+#### Content coupling
+- one component modifies an internal data item in another component.
+- one component branches into the middle of another component. 
+- **to reduce** hide the data so that it can be accessed only by calling the method that can access or modify the data. 
+- ![[attachments/Pasted image 20230914024033.png]]
+
+#### Common coupling
+two modules have write access to the same global data. 
+
+#### Control coupling
+- one module passes an element of control to the other. 
+- it is impossible for the controlled module to function without some direction from controlling module. 
