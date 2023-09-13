@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "bae4997740878954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ccfbdde45cf2f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logic development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "45008c6f50cda444",
@@ -90,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "logic development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "logic development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "logic development.md"
+              }
             }
           },
           {
@@ -167,8 +197,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "24f89d2d2d6beff5",
+  "active": "6ccfbdde45cf2f09",
   "lastOpenFiles": [
+    "index.md",
+    "logic development.md",
     "OOP/virtual.md",
     "OOP/Virtual inheritance..md",
     "OOP/Virtual function.md",
@@ -193,8 +225,6 @@
     "react/HMR.md",
     "react/bundlers.md",
     "react/useRef.md",
-    "react/currying.md",
-    "react/React guidelines for updating state.md",
     "package v",
     "package.json v",
     "computer_science/Computer Science/Observer vs Pub Sub pattern 8ee1211922b645eca5aa0438adc11e2e/1_NcicKEqwUaI8VEc-Ejk6Dg.webp",
