@@ -79,8 +79,10 @@ here the called module use all the parameters to produce the output.
 
 #### Co-incidental 
 module performs multiple, completely unrelated actions. 
+
 ![[attachments/Pasted image 20230914034230.png]]
 
+above operations are unrelated to each other. 
 #### logical cohesion
 - elements perform similar tasks & the activities to be executed are chosen from outside the module. 
 - operations are related but the functions are significantly different. 
