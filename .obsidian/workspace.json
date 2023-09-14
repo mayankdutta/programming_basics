@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cohesion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e56af4dc6111515a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "260149bed86baa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Development.md",
+                "file": "software engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Development.md",
+                "file": "software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Development.md",
+                "file": "software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Development.md"
+                "file": "software engineering.md"
               }
             }
           },
@@ -204,12 +186,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "260149bed86baa9e",
+  "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Coupling.md",
-    "Cohesion.md",
-    "Logic Development.md",
     "index.md",
+    "software engineering.md",
+    "Logic Development.md",
+    "Cohesion.md",
+    "Coupling.md",
     "attachments/Pasted image 20230914034230.png",
     "attachments/Pasted image 20230914025806.png",
     "attachments/Pasted image 20230914025716.png",
@@ -242,7 +225,6 @@
     "Database/Database/database & tables.md",
     "Database/Database/DBMS and its types.md",
     "react/React/useEffect and side-effects.md",
-    "react/HMR.md",
     "package v",
     "package.json v",
     "operating_system/Operating system/attachments",
