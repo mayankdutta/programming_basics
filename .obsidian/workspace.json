@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupling.md",
+                "file": "Logic Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cohesion.md",
+                "file": "Logic Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cohesion.md",
+                "file": "Logic Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cohesion.md"
+                "file": "Logic Development.md"
               }
             }
           },
@@ -204,11 +204,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bae4997740878954",
+  "active": "260149bed86baa9e",
   "lastOpenFiles": [
     "Coupling.md",
-    "Logic Development.md",
     "Cohesion.md",
+    "Logic Development.md",
     "index.md",
     "attachments/Pasted image 20230914034230.png",
     "attachments/Pasted image 20230914025806.png",
