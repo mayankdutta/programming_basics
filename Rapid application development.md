@@ -17,4 +17,11 @@
 #### dis-adv
 - dev & clients must be committed to rapid-fire activities. 
 - not suitable for large projects. 
-- 
+- either party is indiff. in needs of other, the project will run into serious problem. 
+
+
+#### when to use? 
+- requirements are not fully understood
+- user is involved throughout life cycle
+- system can be modularized. 
+
