@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66e58715750f941b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,6 +177,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "701a9df8b38ec281",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -189,7 +209,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6ccfbdde45cf2f09",
+  "active": "66e58715750f941b",
   "lastOpenFiles": [
     "index.md",
     "logic development.md",
