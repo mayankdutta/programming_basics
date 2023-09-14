@@ -59,7 +59,7 @@
 #### Maintenance 
 Any change that is made to the software after it is deployed is known as its maintenance. 
 
-### SDLC methods
+### SDLC processes.
 
 [[Waterfall Model]]
 [[V-Model]]

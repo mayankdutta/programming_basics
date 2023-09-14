@@ -1,4 +1,4 @@
-- prioritizes requirements of system and implements them in groups. 
+- prioritises requirements of system and implements them in groups. 
 - each subsequent release of system adds function to the prev. release, until all designed functionalities have been implemented. 
 #### adv
 - uses divide and conquer breakdown of tasks. 

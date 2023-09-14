@@ -1,7 +1,7 @@
 - RAD is high speed version of linear sequential model. 
 - very short dev life cycle. 
 - RAD model follows a component based approach. 
-- individual component developed by diff people & assembled to develop a large software system. 
+- individual component developed by *different people* & *assembled* to develop a large software system. 
 
 #### Phases
 1. Business modelling 
