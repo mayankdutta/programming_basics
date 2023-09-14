@@ -33,10 +33,9 @@
 - goal is to define requirement of the system. 
 - SRS(*software requirement specification*) is the primary artifact of Analysis phase. 
 
-
 #### Design 
 - software designs = 
-  transforming the customer requirements -> set of documents suitable for implementing in a programming language. 
+  *transforming the customer requirements* -> *set of documents suitable for implementing in a programming language.*
 - process of defining the architecture, interface, component & other characteristics of a system. 
 
 #### levels of design 
@@ -57,7 +56,6 @@
 	- *validation* soft. meets its business requirements. 
 	- *Defect* variance b/w expected & actual result.
 
-
 #### Maintenance 
 Any change that is made to the software after it is deployed is known as its maintenance. 
 
@@ -69,3 +67,4 @@ Any change that is made to the software after it is deployed is known as its mai
 [[Rapid application development]]
 [[incremental model]]
 [[Spiral model]]
+[[ETVX Model]]

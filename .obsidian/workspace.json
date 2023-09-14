@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spiral model.md",
-                "mode": "source",
+                "file": "Rapid application development.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiral model.md",
+                "file": "Rapid application development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiral model.md",
+                "file": "Rapid application development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiral model.md"
+                "file": "Rapid application development.md"
               }
             }
           },
@@ -189,12 +189,14 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering.md",
-    "Spiral model.md",
-    "incremental model.md",
-    "Rapid application development.md",
     "Prototype Model.md",
     "V-Model.md",
     "Waterfall Model.md",
+    "ETVX Model.md",
+    "attachments/Pasted image 20230914221856.png",
+    "Spiral model.md",
+    "incremental model.md",
+    "Rapid application development.md",
     "attachments/Pasted image 20230914153608.png",
     "attachments/Pasted image 20230914151702.png",
     "index.md",
@@ -208,7 +210,6 @@
     "attachments/Pasted image 20230914025501.png",
     "attachments/Pasted image 20230914025317.png",
     "attachments/Pasted image 20230914025135.png",
-    "attachments/Pasted image 20230914024904.png",
     "attachments",
     "OOP/virtual.md",
     "OOP/Virtual inheritance..md",
@@ -223,8 +224,6 @@
     "JS/Object in JS.md",
     "JS/JS.md",
     "JS/Higher order functions.md",
-    "Database/Views.md",
-    "Database/DDL, DML, DCL.md",
     "package v",
     "package.json v",
     "operating_system/Operating system/attachments",

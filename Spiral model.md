@@ -18,4 +18,7 @@
 
 
 #### when to use.
-- risk percie
+- risk perceived is very high. 
+- requirements are complex. 
+- significant changes are expected. 
+
