@@ -1,1 +1,1 @@
-[[logic development]]
+[[Logic Development]]
