@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software engineering.md",
+                "file": "Prototype Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software engineering.md",
+                "file": "Prototype Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software engineering.md",
+                "file": "Prototype Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering.md"
+                "file": "Prototype Model.md"
               }
             }
           },
@@ -188,10 +188,13 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "software engineering.md",
+    "Prototype Model.md",
+    "V-Model.md",
+    "Waterfall Model.md",
     "attachments/Pasted image 20230914153608.png",
     "attachments/Pasted image 20230914151702.png",
     "index.md",
-    "software engineering.md",
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
@@ -203,7 +206,6 @@
     "attachments/Pasted image 20230914025317.png",
     "attachments/Pasted image 20230914025135.png",
     "attachments/Pasted image 20230914024904.png",
-    "attachments/Pasted image 20230914024450.png",
     "attachments",
     "OOP/virtual.md",
     "OOP/Virtual inheritance..md",
@@ -223,8 +225,6 @@
     "Database/keys in dbms.md",
     "Database/Database/Indexing.md",
     "Database/Database/Logical design of database.md",
-    "Database/Database/database & tables.md",
-    "Database/Database/DBMS and its types.md",
     "package v",
     "package.json v",
     "operating_system/Operating system/attachments",
