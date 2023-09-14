@@ -66,3 +66,4 @@ Any change that is made to the software after it is deployed is known as its mai
 [[Waterfall Model]]
 [[V-Model]]
 [[Prototype Model]]
+[[Rapid application development]]
