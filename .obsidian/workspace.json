@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype Model.md",
-                "mode": "source",
+                "file": "software engineering.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Model.md",
+                "file": "software engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prototype Model.md",
+                "file": "software engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prototype Model.md"
+                "file": "software engineering.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "index.md",
+    "Prototype Model.md",
     "software engineering.md",
     "Spiral model.md",
     "Rapid application development.md",
-    "Prototype Model.md",
     "ETVX Model.md",
     "incremental model.md",
     "V-Model.md",
@@ -199,7 +200,6 @@
     "attachments/Pasted image 20230914221856.png",
     "attachments/Pasted image 20230914153608.png",
     "attachments/Pasted image 20230914151702.png",
-    "index.md",
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
