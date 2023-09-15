@@ -1,10 +1,10 @@
 - ibm introduced this model to document their process. 
 - each phase in process performs a well-defined task and generally produces an output. 
 - combines 
-	- entry
-	- task
-	- validation
-	- exit
+	- entry *inputs that are required.*
+	- task *actions to be taken.* 
+	- validation *defines the tests & criteria for checking quality of task.*
+	- exit *defines that output that is required.* 
 
 #### Example 
 

@@ -8,12 +8,14 @@
 - suggested for high risk scenarios based projects. 
 
 #### Adv 
-- provides early indication risk. 
+- provides early indication risk, high risk analysation done at each phase.
 - users see the system early because of rapid prototyping tools. 
 - critical high-risk functions are developed first.
 - early and frequent feedback from users. 
 
 #### Limitations 
+
+- not suitable for low risks or small projects. 
 - time spent for evaluating risks are too large for small or low-risks projects, may not prove cost-worthy. 
 - time spent on planning, resetting objectives, doing risk analysis and prototyping may be excessive. 
 - Relies on risk assessment expertise. 
