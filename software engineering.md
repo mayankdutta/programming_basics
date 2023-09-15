@@ -62,25 +62,31 @@ all possible *requirements* of the system to be developed are *captured & docume
 	- what modules are required, 
 	- what each module perform, 
 	- how these modules communicate with each other. 
+- **LLD :**  focuses on
+	- writing a detailed algorithm
+	- module design & data design 
 
 #### Construction (code + unit testing) 
 - modular & subsystem programming.
 
 #### Testing 
 - levels of testing
-	- unit 
-	- integration 
-	- system 
-	- acceptance
+	- **Unit :** done by dev, individual module tested for functionality. 
+	- **System :** whole system is check.
+	- **Integration :** to check the interface error b/w the integrated components. 
+	- **Acceptance :** done by end-user for system acceptance. 
+
 - software testing includes. 
-	- *verification*  software meets its technical specification. 
-	- *validation* soft. meets its business requirements. 
+	- *verification*  software meets its technical specification. ensures that we are doing the product right? 
+	- *validation* software meets its customer/business requirements. ensures that we re doing the right product. 
 	- *Defect* variance b/w expected & actual result.
 
 #### Maintenance 
-Any change that is made to the software after it is deployed is known as its maintenance. 
+- Any change that is made to the software after it is deployed is known as its maintenance. 
+- changes like enhancements, up-gradations.
 
 ### SDLC processes.
+SDLC is the framework used to developing software
 
 [[Waterfall Model]]
 [[V-Model]]
