@@ -20,7 +20,8 @@
 
 **Software development process** involves transformation of user need into an effective software solution. 
 
-### SDLC 
+## SDLC 
+
 - process used in a project to develop a software product. 
 - describes how the development activities are performed and how the development phases follow each other. 
 
@@ -28,9 +29,18 @@
 
 ### Phases of SDLC
 
+- **feasibility :** identify the issues that may be difficult or impossible to implement in terms of cost time tech during analysis phase.  
+- **analysis :** 
+- **design :**
+- **implement :**
+- **test :**
+- **maintain :**
+
 #### Analysis 
 - goal is to define requirement of the system. 
 - SRS(*software requirement specification*) is the primary artifact of Analysis phase. 
+
+##### SRS
 
 #### Design 
 - software designs = 
