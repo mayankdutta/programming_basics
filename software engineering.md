@@ -31,25 +31,37 @@
 
 - **feasibility :** identify the issues that may be difficult or impossible to implement in terms of cost time tech during analysis phase.  
 - **analysis :** 
-- **design :**
-- **implement :**
-- **test :**
-- **maintain :**
+- **design :** helps in specifying hardware & system requirements & also helps in defining overall system architecture. 
+- **Coding / implement :** design is converted into workable solution
+- **test :** to find errors in the software. 
+- **maintain :** After the deployment client can come back with changes or enhancements
 
 #### Analysis 
+- , *analyst* is responsible for defining the requirements of the system without bothering about how these requirements will be built. 
 - goal is to define requirement of the system. 
-- SRS(*software requirement specification*) is the primary artifact of Analysis phase. 
+- SRS(*software requirement specification*) is the document prepare after the analysis phase. 
 
 ##### SRS
+all possible *requirements* of the system to be developed are *captured & documented* in a document called SRS during design system design is prepared based on the SRS system. 
 
 #### Design 
 - software designs = 
   *transforming the customer requirements* -> *set of documents suitable for implementing in a programming language.*
 - process of defining the architecture, interface, component & other characteristics of a system. 
+- various designs artifacts can be there, such as 
+	- functional hierarchy
+	- diagrams
+	-  screen layout diagrams
+	- normalised tables
+	- pseudocode. 
 
-#### levels of design 
+##### Levels of design 
 - decompose the entire project into units/modules & identify the system architecture, data structure & processing logic. 
 - DD (design document) = HLD + LLD
+- **HLD :** focuses on 
+	- what modules are required, 
+	- what each module perform, 
+	- how these modules communicate with each other. 
 
 #### Construction (code + unit testing) 
 - modular & subsystem programming.
