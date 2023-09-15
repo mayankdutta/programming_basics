@@ -1,5 +1,6 @@
-- creates prototypes, which is an incomplete version of software program being deployed. 
-- simulates only few aspects of the features of the system to be built. 
+Prototype is the concept of developing a model or sample for the system to be built. 
+
+- let the user feel of the system and helps the client to better understand the requirements of desired system. 
 
 
 - used by end users to describe & prove requirements that the devs haven't considered. 
@@ -11,13 +12,13 @@
 #### Steps 
 - identifying the basic requirements 
 - develop initial prototype. 
-- review 
+- review the prototype
 - revise and enhance prototype. 
 
 
 ## Types 
 #### Throw away
-##### Model 
+##### Model  (unclear requirements)
 - quick and dirty approach; involving quick requirements assessment, analysis, design. 
 - focus on rapid construction. 
 - discards prototypes after objective met. 
