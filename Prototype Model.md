@@ -32,7 +32,7 @@ Prototype is the concept of developing a model or sample for the system to be bu
 #### Evolutionary 
 
 ##### Model 
-- requirements prioritized & code is developed for stable requirement, with an eye on quality. 
+- requirements prioritised & code is developed for stable requirement, with an eye on quality. 
 - software continuously refined and augmented in close collaboration with the client
 - build the software incrementally. 
 - adopt a rigorous, systematic approach. 
