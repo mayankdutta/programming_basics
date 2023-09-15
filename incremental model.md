@@ -1,5 +1,9 @@
-- prioritises requirements of system and implements them in groups. 
-- each subsequent release of system adds function to the prev. release, until all designed functionalities have been implemented. 
+- The whole requirement is divided into various builds. 
+- Multiple development cycles takes place & each cycle is divided into small manageable units called modules. 
+- Each module undergo analysis, design, coding & testing. 
+- Working version is produced during the first module & each release adds new functionality to the product release. 
+
+
 #### adv
 - uses divide and conquer breakdown of tasks. 
 - high risk or major functions are addressed in the first incremental cycles. 
