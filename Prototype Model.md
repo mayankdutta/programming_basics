@@ -23,7 +23,7 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - focus on rapid construction. 
 - discards prototypes after objective met. 
 
-##### Steps 
+##### Steps (unstable requirement)
 - write preliminary steps. 
 - design the prototype. 
 - user use the prototype, specifies new requirements. 
