@@ -35,6 +35,12 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - user use the prototype, specifies new requirements. 
 - writing final requirement. 
 - rapid construction 
+
+##### Example
+- client explains a particular layout for his UI.
+- dev not able to understand the client idea.
+- dev will make a rough prototype and shows it to the client till he is satisfied. 
+- Its like making a draft. 
 #### Evolutionary 
 
 ##### Model (unstable requirement)
@@ -47,6 +53,13 @@ Prototype is the concept of developing a model or sample for the system to be bu
 > An initial prototype is presented to the user. They provide feedback & suggestions for improvements. Suggestions are refined by the dev, who then presents a more refined prototype. The user again provides a feedback. 
 > 
 > This process is repeated. 
+
+
+##### Example 
+- measurements of the shirt stitched from dealer. 
+- shirt is not the right fit. 
+- give shirt back to dealer and make alterations
+- start the system with stable requirements, then build the system iteratively & incrementally.
 #### Adv 
 
 - faster and less expensive because the user needs are determined early removes misunderstanding & miscommunications. 
@@ -58,8 +71,8 @@ Prototype is the concept of developing a model or sample for the system to be bu
 
 #### dis-adv
 - user might get confused with the prototype model and the finished product. 
-- documentation is absent. 
-- expense of implementing the prototype is high, affecting dev costs. 
+- documentation is absent because the primary focus is only on developing the prototype. 
+- cost of prototyping will be high. 
 - dev's attachment to the prototype. 
 
 #### when to use. 
