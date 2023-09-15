@@ -23,6 +23,9 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - focus on rapid construction. 
 - discards prototypes after objective met. 
 
+A small part of the system is developed & then given to the user to try out and evaluate. The user then provides the feedback which can quickly be incorporated into the development of the main system.
+The prototype is then discarded or thrown away. 
+The idea behind w
 ##### Steps (unstable requirement)
 - write preliminary steps. 
 - design the prototype. 
