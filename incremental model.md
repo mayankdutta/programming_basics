@@ -6,7 +6,7 @@
 
 #### adv
 - uses divide and conquer breakdown of tasks. 
-- high risk or major functions are addressed in the first incremental cycles. 
+- *high risk or major functions are addressed in the first incremental cycles.*
 - each release delivers an operational product. 
 - customer can respond to each build 
 - customer get important functionality early. 
