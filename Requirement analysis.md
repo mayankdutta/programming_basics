@@ -76,8 +76,15 @@ A person who performs requirement analysis is called a system analyst.
 
 #### SRS document is useful in various contexts
 - SRS will be reviewed and signed off by the stakeholder and feedback will be given. 
-- It shoul
+- It should be in easily readable by the people with little or no technical knowledge. 
+- it serves as a reference document definition for implementation. 
 - statement of user needs.
-- contract document. 
-- reference document. 
-- definition for implementation. 
+- it is a contract between the development team and the customer. 
+
+#### Properties of a good SRS 
+- concise, easy to change.
+- specify what to do (not how to do). 
+- consistent (no two require should conflict). 
+- traceable (trace which part of specification/designs corresponds to)
+- verifiable. (iff there exists a finite process with which we can ensure that product meets the requirement). 
+- *example :* system should be user friendly isn't verifiable because it is impossible to define the terms *good*, *well* or *usually*.
