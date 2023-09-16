@@ -75,4 +75,4 @@ A person who performs requirement analysis is called a system analyst.
 - The answer to how to implement will be provided in the **Design Phase**.
 
 #### SRS document is useful in various contexts
--stat
+- stat
