@@ -18,4 +18,16 @@ A pen may have non-FR that what is it's colour, quality of the nib.
 - very critical process. 
 - The requirements are documented in a standard document called *SRS(software requirements specification)* 
 - This document serves as a contract b/w the customer & developer. 
-- Innvolves 
+- Involves the following activities. 
+	- Requirements elicitation. 
+	- Requirements analysis. 
+	- Requirements documentation. 
+	- Requirements Review.
+
+#### Elicitation (evoke / draw out)
+- process of gathering requirements of the users, customers and other stakeholders. 
+- 3 categories. 
+	- address problems of scope. 
+	- address problems of understanding. 
+	- address problems of volatility(changing requirements). 
+
