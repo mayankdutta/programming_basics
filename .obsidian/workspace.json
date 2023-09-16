@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Prototype Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Prototype Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Prototype Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Prototype Model.md"
               }
             }
           },
@@ -189,15 +189,18 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering.md",
+    "Spiral model.md",
+    "V-Model.md",
+    "Rapid application development.md",
+    "Prototype Model.md",
+    "Phases of SDLC.md",
+    "SDLC.md",
+    "Software Development.md",
     "Test.md",
     "index.md",
     "ETVX Model.md",
-    "Spiral model.md",
     "Waterfall Model.md",
     "incremental model.md",
-    "Rapid application development.md",
-    "V-Model.md",
-    "Prototype Model.md",
     "attachments/Pasted image 20230914221856.png",
     "attachments/Pasted image 20230914153608.png",
     "attachments/Pasted image 20230914151702.png",
@@ -222,9 +225,6 @@
     "Database/Database.md",
     "react/React/Pure vs Impure function.md",
     "react/React.md",
-    "JS/Object in JS.md",
-    "JS/JS.md",
-    "JS/Higher order functions.md",
     "package v",
     "package.json v",
     "operating_system/Operating system/attachments",
