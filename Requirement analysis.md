@@ -75,4 +75,9 @@ A person who performs requirement analysis is called a system analyst.
 - The answer to how to implement will be provided in the **Design Phase**.
 
 #### SRS document is useful in various contexts
-- stat
+- SRS will be reviewed and signed off by the stakeholder and feedback will be given. 
+- It shoul
+- statement of user needs.
+- contract document. 
+- reference document. 
+- definition for implementation. 
