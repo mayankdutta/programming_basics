@@ -62,3 +62,17 @@ A person who performs requirement analysis is called a system analyst.
 	- conducting discussion with domain experts to understand the system. 
 - analysis of gathered requirements. 
 
+##### Several things about project should be clearly understood by the analyst. 
+- what is the problem. 
+- why it is important to solve the problem. 
+- possible solutions of the problem. 
+- complexities might arise while solving the problem. 
+
+#### SRS concentrates on 
+- Once requirements are gathered & analyzed, they can be specified in the document. 
+- *SRS main aim* of this document is to systematically organize the gathered requirements in a formal specific. 
+- SRS only contains what needs to be done, doesn't involve the implementation details. 
+- The answer to how to implement will be provided in the **Design Phase**.
+
+#### SRS document is useful in various contexts
+-stat
