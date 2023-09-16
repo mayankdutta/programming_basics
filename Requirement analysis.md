@@ -32,4 +32,33 @@ A pen may have non-FR that what is it's colour, quality of the nib.
 	- *address problems of volatility (changing requirements) :*  maybe due to politics, market change or user might have missed some requirements. 
 
 #### Requirement analysis
-is the process of studying and analyzing the customer, and the user needs to arrive at a clear, complete. 
+is the process of studying and analysing the customer, and the user needs to arrive at a clear, complete, consistent, unambiguous requirement understanding. 
+
+
+#### Why this is difficult. 
+- misunderstanding b/w analyst and user. 
+- customer doesn't understand alternative trade-offs. 
+
+
+#### Goals of requirement analysis 
+- understand the user's need. 
+- removing inconsistencies, anomalies from requirements.
+- document, requirements properly in an SRS document. 
+
+
+
+### Requirement analysis 
+A person who performs requirement analysis is called a system analyst. 
+- understands user requirement. 
+- collects data needed for the user requirement.
+- writes the **SRS**. 
+
+#### Two main activities. 
+- requirement gathering. 
+	- observations of existing systems. 
+	- studying existing procedures. 
+	- discussion with the customer and the end-user. 
+	- having questionnaires to understand user requirements. 
+	- conducting discussion with domain experts to understand the system. 
+- analysis of gathered requirements. 
+
