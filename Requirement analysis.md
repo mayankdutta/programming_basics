@@ -27,7 +27,9 @@ A pen may have non-FR that what is it's colour, quality of the nib.
 #### Elicitation (evoke / draw out)
 - process of gathering requirements of the users, customers and other stakeholders. 
 - 3 categories. 
-	- address problems of scope. 
-	- address problems of understanding. 
-	- address problems of volatility(changing requirements). 
+	- *address problems of scope :* boundary of system is ill defined, requirements may be too less, too much, unnecessary. 
+	- *address problems of understanding (unclear objectives) :* user himself not clear about his needs, might specify the requirements that are ambiguous, analyst may later come if requirements are conflicting. 
+	- *address problems of volatility (changing requirements) :*  maybe due to politics, market change or user might have missed some requirements. 
 
+#### Requirement analysis
+is the process of studying and analyzing the customer, and the user needs to arrive at a clear, complete. 
