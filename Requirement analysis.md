@@ -14,8 +14,7 @@ A pen may have non-FR that what is it's colour, quality of the nib.
 
 ### [[Requirements Engineering]]
 
-###  Analysing the Requirements.
-A person who performs requirement analysis is called a system analyst. 
+A person who performs requirement analysis is called a system *analyst*. 
 - understands user requirement. 
 - collects data needed for the user requirement.
 - writes the **SRS**. 
