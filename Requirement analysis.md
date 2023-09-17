@@ -88,3 +88,8 @@ A person who performs requirement analysis is called a system analyst.
 - traceable (trace which part of specification/designs corresponds to)
 - verifiable. (iff there exists a finite process with which we can ensure that product meets the requirement). 
 - *example :* system should be user friendly isn't verifiable because it is impossible to define the terms *good*, *well* or *usually*.
+
+#### SRS document normally contains 3 important parts
+- functional requirements: specifies the input, the task and the output.
+- non-functional requirement: specifies the overall quality attributes & constraints to be imposed on the system
+- constraints to the system:  constraints describes any issues that may limit the options available to the developers for ex. regulatory, policies, hardware. 
