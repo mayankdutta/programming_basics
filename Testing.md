@@ -82,6 +82,21 @@ Bugs reported to dev, then regression testing is performed when its done the def
 - **Acceptance testing :**
 	- done by client to check if system is meeting the specific requirements. 
 	- confirm if system is as per user's requirement & certify it is acceptable for delivery to the customer. 
+	- *alpha testing  :* done by the client in dev's environment.
+	- *beta testing :* done by client in real world environment.
 
-##### alpha testing (accptance testing)
-- done by the client in dev's environment 
+
+### types of testing 
+#### static testing
+
+code & associated documents are observed & tested manually.
+execution of code is not performed, only sanity of the code is checked. 
+
+- review
+- walkthrough 
+- inspection 
+
+##### members of static te
+#### dynamic testing
+- black box testing
+- white box testing
