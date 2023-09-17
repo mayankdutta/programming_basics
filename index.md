@@ -1,3 +1,5 @@
-[[Logic Development]]
-[[software engineering]]
-[[Requirement analysis]]
+- [[Logic Development]]
+- [[software engineering]]
+	- [[Requirement analysis]]
+	- [[Testing]]
+- 
