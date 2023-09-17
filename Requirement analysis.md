@@ -90,6 +90,39 @@ A person who performs requirement analysis is called a system analyst.
 - *example :* system should be user friendly isn't verifiable because it is impossible to define the terms *good*, *well* or *usually*.
 
 #### SRS document normally contains 3 important parts
-- functional requirements: specifies the input, the task and the output.
-- non-functional requirement: specifies the overall quality attributes & constraints to be imposed on the system
-- constraints to the system:  constraints describes any issues that may limit the options available to the developers for ex. regulatory, policies, hardware. 
+
+- **Functional requirements**: specifies the input, the task and the output.
+- **non-Functional requirement**: specifies the overall quality attributes & constraints to be imposed on the system
+- **Constraints to the system**:  constraints describes any issues that may limit the options available to the developers for ex. regulatory, policies, hardware limitation, interfaces to the other applications. 
+
+
+##### functional requirement
+- describes set of high level requirements identified as customer requirements. 
+- each high level requirement will take some data as input from user.
+- process the input data & finally provide an output. 
+- *example* a system must send an email whenever an order is placed. 
+
+#### Example
+> For a matrimonial website list down the functional requirement.
+- Register user, 
+- match horoscope
+- update user details
+- members online 
+- search by mother tongue 
+
+> non-functional requirement 
+- maintainability. 
+- portability 
+- usability 
+- reliability 
+- robustness. 
+
+#### constraints
+a constraint describe things that the system should or should not do.
+- standard compliance. 
+- how quickly system can produce results so that it does not overload the other system to which it supplies data.
+- hardware to be used.
+- OS
+- DBMS to be used. 
+- capabilities of IO devices. 
+- Data repre
