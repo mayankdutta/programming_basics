@@ -61,3 +61,27 @@ Bugs reported to dev, then regression testing is performed when its done the def
 - if top module is not ready then dummy module(*driver*) is used.
 
 #### system testing 
+- performed on complete integrated system from end to end perspective. 
+- conducted by testers to find if any diff between implementation & specification.
+- **unbiased system testing** involves testing both functional & non-functional requirements. 
+- **functional testing** verifies that each function of the application works as per the requirement specification. 
+- **non-functional testing** checks the performance, accessibility, reliability & other requirements as specified in document. 
+
+#### performance testing
+- **stress tests :** 
+	- evaluates the system when stressed to its limits. 
+	- aim is to test the system with the max to ensure it doesn't crash. 
+- **regression tests :** 
+	- required when system being tested is replacing an existing system.
+	- replacement because of defect fixing & rectifying the defect. 
+	- or enhancement of original system. 
+- **usability tests :** 
+	- testing characteristics related to user friendliness. 
+	- done by user perspective. 
+	- easy to understandable and use. 
+- **Acceptance testing :**
+	- done by client to check if system is meeting the specific requirements. 
+	- confirm if system is as per user's requirement & certify it is acceptable for delivery to the customer. 
+
+##### alpha testing (accptance testing)
+- done by the client in dev's environment 
