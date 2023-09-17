@@ -92,11 +92,17 @@ Bugs reported to dev, then regression testing is performed when its done the def
 code & associated documents are observed & tested manually.
 execution of code is not performed, only sanity of the code is checked. 
 
-- review
-- walkthrough 
-- inspection 
+- **review :** product is re-examined & re-evaluated for possible corrections. 
+- **walkthrough :** done on deployed code by *author*, author gives sample data, code results get recorded. 
+- **inspection :** done bye *quality improvement team*. step by step reading of the product, each step has criterias. 
 
-##### members of static te
+![[attachments/Pasted image 20230918031525.png]]
+##### members of static testing 
+- **author :** writer of the document under review. 
+- **moderator :** one who leads the review process. 
+- **reader :** who presents the document. 
+- **recorder/scribe :** records each defect found & any suggestions or feedback given in the meeting. 
+- **inspector :** responsible for inspecting document.
 #### dynamic testing
 - black box testing
 - white box testing
