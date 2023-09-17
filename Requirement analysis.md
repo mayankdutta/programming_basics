@@ -125,4 +125,30 @@ a constraint describe things that the system should or should not do.
 - OS
 - DBMS to be used. 
 - capabilities of IO devices. 
-- Data repre
+- Data representation. 
+
+#### organisation of SRS document
+- introduction
+- functional requirements. 
+- nonfunctional requirements 
+	- external interface requirements 
+	- performance requirements
+- constraints
+
+### ERD
+- entity relationship diagram. 
+- ER diagram widely used in DB design.
+- represent the conceptual level of db system. 
+- describes things and their relationships in high level. 
+
+- **Entity** business object that represents a group or category of data. represented by *rectangle*
+- **Attribute** properties of entity. represented by *diamond*
+- **Relationship** relations among entities. represented by *oval/circle*
+
+#### Relationship 
+specifies association between two entities. 
+
+| Cardinality                                                          | Optionality                                |
+| -------------------------------------------------------------------- | ------------------------------------------ |
+| One instance of an entity maps to how many instance of other entity. | is the relationship mandatory or optional. |
+| can be many-many, 1-1, 1-many relationships                          | can have mandatory, optional relationships                                           |
