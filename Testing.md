@@ -97,6 +97,11 @@ execution of code is not performed, only sanity of the code is checked.
 - **inspection :** done bye *quality improvement team*. step by step reading of the product, each step has criterias. 
 
 ![[attachments/Pasted image 20230918031525.png]]
+
+during planning people ar eidentified and the roles are assigned to each of the identified person identifyng the entry and exit criteria. 
+during initiating the document to be reviewed is distributed nad the objectvives are explained
+verifying the entry criteria self preparation. 
+individual work is done by each of the participants on their won, marking the questions and the comments recording the results, rework the effect of fixing. & if any follow up.
 ##### members of static testing 
 - **author :** writer of the document under review. 
 - **moderator :** one who leads the review process. 
