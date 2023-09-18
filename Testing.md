@@ -123,6 +123,11 @@ individual work is done by each of the participants on their won, marking the qu
 		- *equivalence class partitioning* 
 			- choose 3 values as test data one above range, one below range, one in the range.
 		- *boundary value analysis* 
+			- test cases are designed to find errors at boundary value. 
+			- test cases will be exactly the lower limit, upper limit, a value just below lower limit & value just above upper limit. 
 		- *cause effect analysis* 
+			- helps in identifying the causes and their effect associated with a particular problem or situation.
+			- A cause is an input condition or an equivalence class of input condition. 
+			- Effect is an output condition or a system transformation. 
 		- *error guessing*
 - **white box testing**
