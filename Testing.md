@@ -129,5 +129,14 @@ individual work is done by each of the participants on their won, marking the qu
 			- helps in identifying the causes and their effect associated with a particular problem or situation.
 			- A cause is an input condition or an equivalence class of input condition. 
 			- Effect is an output condition or a system transformation. 
-		- *error guessing*
+			- suitable for application in which combinations of input conditions are few.
+		- *error guessing* 
+			- ad hoc approach guided by intuition & experience. 
+			- consider a program is written into a file, following TCes can be derivd. 
+				- having an empty file. 
+				- not at all having a file. 
+				- having a file with read permission. 
 - **white box testing**
+	- also called glass box testing, structural testing or clear box testing. 
+	- use to check internal logic of code. 
+	- tester should have thorough knowledge of programming, language. 
