@@ -141,4 +141,6 @@ individual work is done by each of the participants on their won, marking the qu
 	- use to check internal logic of code. 
 	- tester should have thorough knowledge of programming, language. 
 	- **[[Basis path testing]]**
-		- 
+
+![[attachments/Pasted image 20230918174832.png]]
+
