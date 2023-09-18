@@ -119,4 +119,10 @@ individual work is done by each of the participants on their won, marking the qu
 	- functionality of software is tested without knowledge of internal implementation of code. 
 	- tester will know the expected output and input. 
 	- also known as specification based testing. 
+	- **techniques for generating TC in black box**
+		- *equivalence class partitioning* 
+			- choose 3 values as test data one above range, one below range, one in the range.
+		- *boundary value analysis* 
+		- *cause effect analysis* 
+		- *error guessing*
 - **white box testing**
