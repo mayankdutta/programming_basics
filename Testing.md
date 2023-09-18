@@ -144,3 +144,12 @@ individual work is done by each of the participants on their won, marking the qu
 
 ![[attachments/Pasted image 20230918174832.png]]
 
+![[attachments/Pasted image 20230919031525.png]]
+
+
+
+| static testing                                                                                                        | dynamic testing |     |     |
+| --------------------------------------------------------------------------------------------------------------------- | --------------- | --- | --- |
+| innvolves manula exmination of the work product to uncover erors                                                      |      involves           |     |     |
+| can be done in all phases of the software, errors identified during this testing are easy to fix hence less expensive |                 |     |     |
+|                                                                                                                       |                 |     |     |
