@@ -148,8 +148,24 @@ individual work is done by each of the participants on their won, marking the qu
 
 
 
-| static testing                                                                                                        | dynamic testing |     |     |
-| --------------------------------------------------------------------------------------------------------------------- | --------------- | --- | --- |
-| innvolves manula exmination of the work product to uncover erors                                                      |      involves           |     |     |
-| can be done in all phases of the software, errors identified during this testing are easy to fix hence less expensive |                 |     |     |
-|                                                                                                                       |                 |     |     |
+| static testing                                                                                                        | dynamic testing                                  |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| innvolves manula exmination of the work product to uncover erors                                                      | involves executing the code to check for errors. |
+| can be done in all phases of the software, errors identified during this testing are easy to fix hence less expensive |                                                  |
+
+
+#### when to stop testing
+- when time allocated for testing has expired.
+- run our of the resources like time, cost, manpower, tools. 
+- rate of bug finding is minimum.
+- deadline or the test deadline is met. 
+
+
+### Debugging
+- done by dev with the intention of analysing and removing the bug.
+- steps 
+	- find defect in the code. 
+	- identify the root cause of the problem. 
+	- identify exact place in the code that is the cause of the problem.
+	- fix the detect. 
+	- recheck to ensure that the defect fixed is working as expected. 
