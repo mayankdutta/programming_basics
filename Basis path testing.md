@@ -3,3 +3,14 @@
 	- *every statement (statement coverage).*
 	- *every predicate in the code (condition OR branch coverage).*  if/else thing 
 	- *loops (loop coverage).*  loop executed 0/1/n times. 
+- To perform basis path testing. 
+	- break modules into blocks deliminated by statements that affect the control flow. 
+	- mark out these as nodes in control flow graph.
+	- draw connectors with arrow heads to mark the flow of logic
+	- identify the regions (cyclomatic number) which is also known as McCabe's number.
+- McCabe's number (cyclomatic complexity)
+	- defines the no. of independent paths. 
+	- provides the no. of tests that must be conducted to ensure that all the statements are executed at least once. 
+- ![[attachments/Pasted image 20230918174437.png]]
+- ![[attachments/Pasted image 20230918174618.png]]
+- 
