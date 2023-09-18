@@ -108,6 +108,15 @@ individual work is done by each of the participants on their won, marking the qu
 - **reader :** who presents the document. 
 - **recorder/scribe :** records each defect found & any suggestions or feedback given in the meeting. 
 - **inspector :** responsible for inspecting document.
+
+##### types of reviews 
+- **informal review**  peer programmer or tech lead will review the code. 
+- **walkthrough** led by author, again informal meeting. author reads the document and his team mates comes up with suggestions or defects. 
+- **technical review** team of experts examine technical quality of the artifact & identifies the discrepancies from specs and standards. 
+- **inspection** led by trained moderator who is not the author, most formal & driven by rules. makes use of entry & exit criteria. Inspection report is prepared & shared with the author
 #### dynamic testing
-- black box testing
-- white box testing
+- **black box testing**
+	- functionality of software is tested without knowledge of internal implementation of code. 
+	- tester will know the expected output and input. 
+	- also known as specification based testing. 
+- **white box testing**
