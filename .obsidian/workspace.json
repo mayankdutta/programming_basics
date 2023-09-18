@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Basis path testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Basis path testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Basis path testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Basis path testing.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Basis path testing.md",
     "Testing.md",
+    "Basis path testing.md",
     "attachments/Pasted image 20230919031525.png",
     "attachments/Pasted image 20230918174832.png",
     "attachments/Pasted image 20230918174618.png",
