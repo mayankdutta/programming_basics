@@ -1,0 +1,5 @@
+- white box testing method. 
+- design test cases to cover the following in the code written. 
+	- *every statement (statement coverage).*
+	- *every predicate in the code (condition OR branch coverage).*  if/else thing 
+	- *loops (loop coverage).*  loop executed 0/1/n times. 

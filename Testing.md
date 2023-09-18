@@ -140,3 +140,5 @@ individual work is done by each of the participants on their won, marking the qu
 	- also called glass box testing, structural testing or clear box testing. 
 	- use to check internal logic of code. 
 	- tester should have thorough knowledge of programming, language. 
+	- **[[Basis path testing]]**
+		- 
