@@ -8,5 +8,7 @@
   "darlal-switcher-plus",
   "tag-wrangler",
   "find-unlinked-files",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "omnisearch"
 ]
