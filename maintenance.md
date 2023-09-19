@@ -10,6 +10,20 @@ strategies for software changes, such as
 - architectural transformation
 - software re-engineering 
 
-#### software maintenance 
+##### software maintenance 
 - changes are made in response to changed requirements but the fundamental software structure is stable. 
-- process of modifying a software system or component 
+- process of modifying a software system or component after delivery to correct faults, improve performance. 
+
+##### Architectural transformation 
+- generally change from a centralized to a distributed architecture. 
+
+##### Software re-engineering 
+- no new functionality is added to system. 
+- it is restructured & reorganized to facilitate future changes. 
+
+#### types of maintenance. 
+- corrective
+- adaptive
+- perfective
+- preventive 
+
