@@ -3,4 +3,5 @@
 	- [[Requirement analysis]]
 	- [[Testing]]
 	- [[maintenance]]
+	- [[configuration]]
 - 
