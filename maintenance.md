@@ -22,8 +22,19 @@ strategies for software changes, such as
 - it is restructured & reorganized to facilitate future changes. 
 
 #### types of maintenance. 
-- corrective
-- adaptive
-- perfective
-- preventive 
+- **corrective** concerned with fixing errors, observed when the software is in the use. 
+- **adaptive** 
+	- involves adapting the software to changes in the working env. 
+	- it is concerned with the changes to be made to a software to make it adaptable to a new environment. 
+	- for ex. govt changed VAT to X percent. This change means that many organisation had to make alternations to their system. 
+- **perfective** 
+	- making functional enhancements to the system. 
+	- which increase system's performance even when changes haven't been suggested by faults. 
+	- ex. A report is generated in excel format, for better understanding it is generated in graphical manner.
+- **preventive** 
+	- changes made to system to prevent occurrence of errors in future. 
+	- prevent problems before they occur. 
+
+
+- 
 
