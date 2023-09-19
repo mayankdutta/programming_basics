@@ -18,10 +18,19 @@ diff. functionalities that aren't present in the previous version might be neede
 config management is responsible for managing & controlling the costs & efforts involved in making changes to a system. 
 
 
-#### software config management. (scm)
+#### software config management. (SCM)
 
 SCM defines. 
 - the types of documents to be managed & a document naming scheme
-- who takes responsibility for the CM procedures and creation of 'baselines'. 
+- who takes responsibility for the CM procedures and creation of *baselines*. 
 - policies for change control and version management. 
-- 
+- the CM records which must be maintained. 
+
+A baselines is a formally reviewed and approved document by the management that can be used as the basis for further development. 
+
+SCM specifies the tools which should be used to assist the CM process and any limitations on their use. 
+
+SCM is said to be effective
+- when every work product can be accounted for
+- when every work product or change made to it can be tracked and controlled.
+
