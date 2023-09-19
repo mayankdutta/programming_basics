@@ -6,3 +6,5 @@
 2. **change management** control changes to a product & its configuration documentation
 3. **configuration sales accounting** provide status & information about a product & its configuration documentation. 
 4. **configuration audits** 
+
+configuration 
