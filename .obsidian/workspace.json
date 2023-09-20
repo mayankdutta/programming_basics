@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configuration.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configuration.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configuration.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configuration.md"
+                "file": "index.md"
               }
             }
           },
@@ -187,12 +187,13 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "Logic Development.md",
     "index.md",
+    "configuration.md",
     "Basis path testing.md",
     "Testing.md",
     "Requirement analysis.md",
     "maintenance.md",
-    "configuration.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
     "attachments/Pasted image 20230918174832.png",
@@ -204,7 +205,6 @@
     "ERD.md",
     "SRS.md",
     "Requirements Engineering.md",
-    "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
     "software engineering.md",
