@@ -2,6 +2,17 @@
 - process used in a project to develop a software product. 
 - describes how the development activities are performed and how the development phases follow each other. 
 
+
+### product life cycle 
+
+### project life cycle 
+- project initialisation: defines objective and appraoches. 
+- project planning: develop solution and approaches, provide all necessary steps.
+- execution: 
+- closure: releases the product to the customer
+
+
+
 ![[attachments/Pasted image 20230914151702.png]]
 
 ### Phases of SDLC

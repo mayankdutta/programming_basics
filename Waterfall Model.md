@@ -1,5 +1,6 @@
 
 - *or* linear sequential model 
+- *most used, traditional model.* 
 - proposed by Winston Royce in 1970. 
 - name due to cascading effect from one phase to the other. 
 - each phase has a well defined start & end point, with identifiable deliverables to the next phase. 

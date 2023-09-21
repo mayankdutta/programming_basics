@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software engineering & SDLC.md",
-                "mode": "preview",
+                "file": "Waterfall Model.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software engineering & SDLC.md",
+                "file": "Waterfall Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software engineering & SDLC.md",
+                "file": "Waterfall Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering & SDLC.md"
+                "file": "Waterfall Model.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "index.md",
     "software engineering & SDLC.md",
     "SDLC.md",
+    "Phases of SDLC.md",
+    "index.md",
     "Software Development.md",
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
     "incremental model.md",
-    "Phases of SDLC.md",
     "Testing.md",
     "Requirement analysis.md",
     "Basis path testing.md",
