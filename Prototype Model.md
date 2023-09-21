@@ -83,3 +83,10 @@ a single prototype that is iterated over and over
 throwaway prototypes are not intended to evolve into the final product design but are instead created solely for testing a single idea or answering individual questions.
 
 Evolutionary app prototyping (*or incremental app prototyping*) is the process of creating a prototype for an app that is intended as the first iteration of the final product which can then be updated and adapted as the design project matures.
+
+
+**Evolutionary** is a robust prototype, that is constantly refined to represent a product change, future product.
+tend to be an expensive investment that are common in domains such as automotive industry that require products to be extremely refined before they hit the market. 
+
+**Throwaway prototype** is a cheap, fast prototype designed to model an idea or feature. 
+They are commonly used in early phases of design when a *large number of ideas are still considered*. 

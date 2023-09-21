@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype Model.md",
-                "mode": "source",
+                "file": "Spiral model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Model.md",
+                "file": "Spiral model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prototype Model.md",
+                "file": "Spiral model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prototype Model.md"
+                "file": "Spiral model.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering.md",
+    "incremental model.md",
+    "Rapid application development.md",
+    "Prototype Model.md",
     "V-Model.md",
     "Waterfall Model.md",
     "Phases of SDLC.md",
@@ -213,11 +216,8 @@
     "attachments/Pasted image 20230918031519.png",
     "attachments/Pasted image 20230918020047.png",
     "Requirements Engineering.md",
-    "Rapid application development.md",
-    "incremental model.md",
     "Spiral model.md",
     "ETVX Model.md",
-    "Prototype Model.md",
     "Test.md",
     "attachments/Pasted image 20230914221856.png",
     "attachments/Pasted image 20230914153608.png",
