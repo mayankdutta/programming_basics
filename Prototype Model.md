@@ -42,7 +42,7 @@ Prototype is the concept of developing a model or sample for the system to be bu
 #### Evolutionary 
 ##### Model (unstable requirement)
 - requirements prioritised & code is developed for stable requirement, with an eye on quality. 
-- software is developed incrementally.
+- software is developed *incrementally*.
 - software continuously refined and augmented in close collaboration with the client
 - adopt a rigorous, systematic approach. 
 - iterative mode (software is developed through repeated cycles) & in smaller portions of the time. 
