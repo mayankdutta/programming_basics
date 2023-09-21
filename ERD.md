@@ -4,8 +4,8 @@
 - represent the conceptual level of db system. 
 - describes things and their relationships in high level. 
 
-- **Entity** business object that represents a group or category of data. represented by *rectangle*
-- **Attribute** properties of entity. represented by *diamond*
+- **Entity** business object that represents a group or category of data. represented by *rectangle*, ex. #todo
+- **Attribute** properties of entity. represented by *diamond*, example: #todo 
 - **Relationship** relations among entities. represented by *oval/circle*
 
 #### Relationship 

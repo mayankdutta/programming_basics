@@ -2,19 +2,17 @@
 - process of detecting the differences between existing & required conditions & to evaluate features of the software. 
 - used to find the presence of defects, but never their absence. 
 
-
 Testers are the one who certifies the software product. 
 
 ### testing life cycle 
 identifies the testing life cycle identifies what test activities. 
 phases are 
 - test plan 
-- test design 
-- test execution 
+- test design: test scripts are designed. 
+- test execution: 
 - report to dev
 - verify 
 - close 
-
 
 ### testing documentation 
 tells how test should be performed. 
@@ -30,7 +28,6 @@ Test scenarios. test cases, test data, test scripts are prepared.
 Test execution involves executing the test scripts and finding bugs. 
 Bugs reported to dev, then regression testing is performed when its done the defect closed. 
 
-
 #### levels of testing 
 - unit
 - integration
@@ -41,7 +38,6 @@ Bugs reported to dev, then regression testing is performed when its done the def
 - individual components of software are tested to ensure that it works as expected. 
 - done by dev 
 - cost of fixing a defect detected during unit testing is lesser in comparison with higher levels. 
-
 
 #### integration
 - individual modules that are unit tested are then integrated to perform integration testing 
@@ -84,7 +80,7 @@ Bugs reported to dev, then regression testing is performed when its done the def
 	- *beta testing :* done by client in real world environment.
 
 
-### types of testing 
+### types of testing techniques. 
 #### static testing
 
 code & associated documents are observed & tested manually.
