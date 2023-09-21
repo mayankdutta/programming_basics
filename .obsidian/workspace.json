@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "SDLC.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "SDLC.md"
               }
             }
           },
@@ -187,17 +187,17 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Requirement analysis.md",
-    "ERD.md",
-    "SRS.md",
-    "index.md",
     "software engineering.md",
-    "Phases of SDLC.md",
-    "SDLC.md",
     "Software Development.md",
+    "index.md",
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
+    "Requirement analysis.md",
+    "ERD.md",
+    "SRS.md",
+    "Phases of SDLC.md",
+    "SDLC.md",
     "configuration.md",
     "Basis path testing.md",
     "Testing.md",
