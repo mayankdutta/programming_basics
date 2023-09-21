@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configuration.md",
-                "mode": "preview",
+                "file": "Coupling.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configuration.md",
+                "file": "Coupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configuration.md",
+                "file": "Coupling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configuration.md"
+                "file": "Coupling.md"
               }
             }
           },
@@ -187,7 +187,11 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "Logic Development.md",
+    "Cohesion.md",
+    "Coupling.md",
     "index.md",
+    "configuration.md",
     "Testing.md",
     "Basis path testing.md",
     "Requirement analysis.md",
@@ -204,10 +208,6 @@
     "SDLC.md",
     "Phases of SDLC.md",
     "Software Development.md",
-    "Logic Development.md",
-    "Cohesion.md",
-    "Coupling.md",
-    "configuration.md",
     "maintenance.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
