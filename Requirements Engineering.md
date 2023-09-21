@@ -6,7 +6,7 @@
 - Involves the following activities. 
 	- Requirements elicitation. 
 	- Requirements analysis. 
-	- Requirements documentation. 
+	- Requirements documentation #todo (specfication). 
 	- Requirements Review.
 
 #### Elicitation (evoke / draw out)
