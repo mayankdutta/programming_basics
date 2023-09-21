@@ -1,4 +1,7 @@
 
+- **No specific planning**.
+- quickly design 
+- extremely short duration. 
 - RAD model follows a component based approach. 
 - individual component developed by *different people* & *assembled* to develop a large software system. 
 - modules are developed in *parallel* as if they are *mini projects*. 

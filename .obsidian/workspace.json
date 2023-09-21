@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waterfall Model.md",
-                "mode": "source",
+                "file": "ETVX Model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waterfall Model.md",
+                "file": "ETVX Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waterfall Model.md",
+                "file": "ETVX Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waterfall Model.md"
+                "file": "ETVX Model.md"
               }
             }
           },
@@ -188,6 +188,13 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering & SDLC.md",
+    "Spiral model.md",
+    "ETVX Model.md",
+    "Rapid application development.md",
+    "Prototype Model.md",
+    "incremental model.md",
+    "V-Model.md",
+    "Waterfall Model.md",
     "SDLC.md",
     "Phases of SDLC.md",
     "index.md",
@@ -195,17 +202,11 @@
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
-    "incremental model.md",
     "Testing.md",
     "Requirement analysis.md",
     "Basis path testing.md",
     "SRS.md",
     "ERD.md",
-    "Spiral model.md",
-    "Rapid application development.md",
-    "Prototype Model.md",
-    "V-Model.md",
-    "Waterfall Model.md",
     "configuration.md",
     "maintenance.md",
     "attachments/Pasted image 20230919161208.png",
@@ -217,7 +218,6 @@
     "attachments/Pasted image 20230918031519.png",
     "attachments/Pasted image 20230918020047.png",
     "Requirements Engineering.md",
-    "ETVX Model.md",
     "Test.md",
     "attachments/Pasted image 20230914221856.png",
     "attachments/Pasted image 20230914153608.png",

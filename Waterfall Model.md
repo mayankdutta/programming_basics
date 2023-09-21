@@ -5,7 +5,7 @@
 - name due to cascading effect from one phase to the other. 
 - each phase has a well defined start & end point, with identifiable deliverables to the next phase. 
 - linear sequential model, systematic in approach & principle suggests *Can't retrieve to previous phase*.
-- Requirements -> design -> implementation -> verification -> maintenance.  
+- *Requirements* -> *design* -> *implementation* -> *verification* -> *maintenance*.  
 
 ##### Adv
 - simple easy to use. 

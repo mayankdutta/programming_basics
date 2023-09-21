@@ -1,5 +1,6 @@
+- tick in the box model. 
 - proposed by Barry Bohem in 1986. 
-- Diagrammatic representation of this model appears like spiral with many loops. 
+- Diagrammatic representation of this model appears like *spiral with many loops*. 
 - Spiral model is a framework & best suited for the projects which are risky. 
 - has full phases such as planning, risk analysis, engineering & evaluation. 
 - The software project repeatedly passes through these phases in a spiral formation. 

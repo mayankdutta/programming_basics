@@ -66,7 +66,7 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - interaction with the prototype stimulates awareness of additional needed functionality. 
 
 
-#### dis-adv
+#### dis Adv
 - user might get confused with the prototype model and the finished product. 
 - documentation is absent because the primary focus is only on developing the prototype. 
 - cost of prototyping will be high. 
