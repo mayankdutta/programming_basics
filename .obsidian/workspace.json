@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETVX Model.md",
-                "mode": "preview",
+                "file": "ERD.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETVX Model.md",
+                "file": "ERD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETVX Model.md",
+                "file": "ERD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETVX Model.md"
+                "file": "ERD.md"
               }
             }
           },
@@ -187,9 +187,12 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "Requirement analysis.md",
+    "SRS.md",
+    "index.md",
     "software engineering & SDLC.md",
-    "Spiral model.md",
     "ETVX Model.md",
+    "Spiral model.md",
     "Rapid application development.md",
     "Prototype Model.md",
     "incremental model.md",
@@ -197,15 +200,12 @@
     "Waterfall Model.md",
     "SDLC.md",
     "Phases of SDLC.md",
-    "index.md",
     "Software Development.md",
     "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
     "Testing.md",
-    "Requirement analysis.md",
     "Basis path testing.md",
-    "SRS.md",
     "ERD.md",
     "configuration.md",
     "maintenance.md",

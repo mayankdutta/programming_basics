@@ -1,3 +1,6 @@
+**choose the entry criteria, checked then confirmed exit criteria and then confirmed**
+
+
 - ibm introduced this model to document their process. 
 - each phase in process performs a well-defined task and generally produces an output. 
 - combines 
