@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "configuration.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "configuration.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Basis path testing.md",
-    "Testing.md",
     "index.md",
+    "Testing.md",
+    "Basis path testing.md",
     "Requirement analysis.md",
     "ERD.md",
     "SRS.md",
