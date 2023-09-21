@@ -1,12 +1,10 @@
 Prototype is the concept of developing a model or sample for the system to be built. 
 
 - let the user feel of the system and helps the client to better understand the requirements of desired system. 
-
-
 - used by end users to describe & prove requirements that the devs haven't considered. 
-- dev build a prototype during requirement phase. 
-- evaluated by end user to provide corrective feedback. 
-- dev further refine the prototype based on feedback 
+- dev *build a prototype* during requirement phase. 
+- *evaluated by end user* to provide corrective feedback. 
+- dev further *refine the prototype* based on feedback 
 - when user is satisfied, prototype code is brought up to the standards needed for the final product. 
 
 #### Steps 
@@ -15,11 +13,9 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - review the prototype
 - revise and enhance prototype. 
 
-
 ## Types 
 #### Throw away
 ##### Model  (unclear requirements)
-- 
 
 > A small part of the system is developed & then given to the user to try out and evaluate. The user then provides the feedback which can quickly be incorporated into the development of the main system.
 > 
@@ -41,11 +37,11 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - dev not able to understand the client idea.
 - dev will make a rough prototype and shows it to the client till he is satisfied. 
 - Its like making a draft. 
-#### Evolutionary 
 
+#### Evolutionary 
 ##### Model (unstable requirement)
 - requirements prioritised & code is developed for stable requirement, with an eye on quality. 
-- software is developed incrementally. 
+- software is developed incrementally.
 - software continuously refined and augmented in close collaboration with the client
 - adopt a rigorous, systematic approach. 
 - iterative mode (software is developed through repeated cycles) & in smaller portions of the time. 
