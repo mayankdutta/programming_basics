@@ -17,6 +17,7 @@
 
 - RAD does analysis quick design and develops the product incrementally & iteratively.
 - main focus is on rapid delivery of software to the customer. 
+- Customer involvement is there throughout the system. 
 
 #### Phases
 1. **Business Modelling** information flow is identified b/w various modules. 

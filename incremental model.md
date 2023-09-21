@@ -1,10 +1,10 @@
 - The whole requirement is divided into *various builds*. 
-- Multiple development cycles takes place & each cycle is divided into small manageable units called modules. 
+- Multiple development cycles takes place & each cycle is divided into small *manageable units* called *modules*. 
 - Each module undergo analysis, design, coding & testing. 
-- Working version is produced during the first module & each release adds new functionality to the product release. 
+- *Working version* is produced during the first module & each release adds *new functionality* to the product release. 
 
 #### Advantages 
-- uses divide and conquer breakdown of tasks. 
+- uses divide and conquer breakdown of tasks(tasks not done parallelly, only divided). 
 - *high risk or major functions are addressed in the first incremental cycles.*
 - each release delivers an operational product. 
 - customer can respond to each build 

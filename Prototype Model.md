@@ -90,3 +90,7 @@ tend to be an expensive investment that are common in domains such as automotive
 
 **Throwaway prototype** is a cheap, fast prototype designed to model an idea or feature. 
 They are commonly used in early phases of design when a *large number of ideas are still considered*. 
+
+
+
+![[attachments/Pasted image 20230922020758.png]]
