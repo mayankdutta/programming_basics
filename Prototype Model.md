@@ -38,6 +38,7 @@ Prototype is the concept of developing a model or sample for the system to be bu
 - dev will make a rough prototype and shows it to the client till he is satisfied. 
 - Its like making a draft. 
 
+
 #### Evolutionary 
 ##### Model (unstable requirement)
 - requirements prioritised & code is developed for stable requirement, with an eye on quality. 
@@ -73,4 +74,12 @@ Prototype is the concept of developing a model or sample for the system to be bu
 
 #### when to use. 
 - requirements are unclear (*use throwaway model*)
-- requirements are unstable (*use evolutionary prototype model*)
+- requirements are unstable (*use evolutionary prototype model*
+
+
+### further theory 
+
+a single prototype that is iterated over and over
+throwaway prototypes are not intended to evolve into the final product design but are instead created solely for testing a single idea or answering individual questions.
+
+Evolutionary app prototyping (*or incremental app prototyping*) is the process of creating a prototype for an app that is intended as the first iteration of the final product which can then be updated and adapted as the design project matures.
