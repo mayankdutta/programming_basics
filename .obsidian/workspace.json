@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC.md",
-                "mode": "preview",
+                "file": "Phases of SDLC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC.md",
+                "file": "Phases of SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC.md",
+                "file": "Phases of SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC.md"
+                "file": "Phases of SDLC.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering fundamentals.md",
+    "SDLC.md",
+    "Phases of SDLC.md",
     "Software Development.md",
     "index.md",
     "Testing.md",
@@ -209,8 +211,6 @@
     "incremental model.md",
     "V-Model.md",
     "Waterfall Model.md",
-    "SDLC.md",
-    "Phases of SDLC.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
     "attachments/Pasted image 20230918174832.png",
