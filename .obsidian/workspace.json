@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software engineering & SDLC.md",
+                "file": "incremental model.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software engineering & SDLC.md",
+                "file": "incremental model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software engineering & SDLC.md",
+                "file": "incremental model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering & SDLC.md"
+                "file": "incremental model.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "index.md",
     "software engineering & SDLC.md",
+    "index.md",
     "Phases of SDLC.md",
     "SDLC.md",
     "Software Development.md",
