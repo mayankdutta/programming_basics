@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupling.md",
-                "mode": "source",
+                "file": "Testing.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coupling.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coupling.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coupling.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -187,10 +187,13 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Logic Development.md",
-    "Cohesion.md",
-    "Coupling.md",
     "index.md",
+    "maintenance.md",
+    "Logic Development.md",
+    "tests.md",
+    "attachments/Pasted image 20230922003042.png",
+    "Coupling.md",
+    "Cohesion.md",
     "configuration.md",
     "Testing.md",
     "Basis path testing.md",
@@ -208,7 +211,6 @@
     "SDLC.md",
     "Phases of SDLC.md",
     "Software Development.md",
-    "maintenance.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
     "attachments/Pasted image 20230918174832.png",
@@ -220,10 +222,7 @@
     "Requirements Engineering.md",
     "Test.md",
     "attachments/Pasted image 20230914221856.png",
-    "attachments/Pasted image 20230914153608.png",
     "attachments",
-    "OOP/virtual.md",
-    "OOP/Virtual inheritance..md",
     "package v",
     "package.json v",
     "operating_system/Operating system/attachments",
