@@ -22,3 +22,5 @@
 
 client's needs are analysed. 
 
+![[attachments/Pasted image 20230922022637.png]]
+
