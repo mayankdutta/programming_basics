@@ -44,8 +44,8 @@ all possible *requirements* of the system to be developed are *captured & docume
 - Testing is the process of executing the program with the intent of finding errors. 
 - levels of testing
 	- **Unit :** done by dev, individual module tested for functionality. 
+	- **Integration :** to check the interface error b/w the integrated components.
 	- **System :** whole system is check.
-	- **Integration :** to check the interface error b/w the integrated components. 
 	- **Acceptance :** done by end-user for system acceptance. 
 
 - software testing includes. 
