@@ -1,5 +1,6 @@
 - [[Logic Development]]
-- [[software engineering & SDLC]]
+- Software Engineering
+	- [[software engineering fundamentals]]
 	- [[Requirement analysis]]
 	- [[Testing]]
 	- [[maintenance]]

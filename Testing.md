@@ -69,6 +69,7 @@ Bugs reported to dev, then regression testing is performed when its done the def
 	- required when system being tested is replacing an existing system.
 	- replacement because of defect fixing & rectifying the defect. 
 	- or enhancement of original system. 
+	- explain it more clearly #todo 
 - **usability tests :** 
 	- testing characteristics related to user friendliness. 
 	- done by user perspective. 
