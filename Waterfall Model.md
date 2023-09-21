@@ -17,14 +17,17 @@
 - contract related issues can be addressed effectively. 
 
 ##### Limitation
-- suitable if the requirement is well-defined & *stable*. 
+- suitable if the requirement is well-defined, *stable*, *freeze*. 
 - user can only see the software at the end of the development cycle. 
-- backtracking cost is *high*. 
+- backtracking cost is *high*, *reiteration* is very costly. 
 - increased development of time & cost. 
 - Requirements have to be freeze It is rigid. 
 - hard to estimate cost. 
 
 ##### Suitable when 
+- When a new version of existing system is created
+	- that is when we want to automate the manual process
+	- tools, techs are known in advance & not going to be changed.
 - requirements are clearly defined & known. 
 - product definition is stable. 
 - dev tools & tech well known. 

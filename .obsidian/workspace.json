@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waterfall Model.md",
-                "mode": "source",
+                "file": "V-Model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waterfall Model.md",
+                "file": "V-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waterfall Model.md",
+                "file": "V-Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waterfall Model.md"
+                "file": "V-Model.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "software engineering fundamentals.md",
+    "Waterfall Model.md",
+    "index.md",
+    "Testing.md",
     "Phases of SDLC.md",
     "SDLC.md",
     "Software Development.md",
-    "index.md",
-    "Testing.md",
     "maintenance.md",
     "Logic Development.md",
     "tests.md",
@@ -210,7 +211,6 @@
     "Prototype Model.md",
     "incremental model.md",
     "V-Model.md",
-    "Waterfall Model.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
     "attachments/Pasted image 20230918174832.png",
