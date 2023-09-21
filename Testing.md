@@ -34,67 +34,10 @@ Bugs reported to dev, then regression testing is performed when its done the def
 - [[system testing]]
 - [[acceptance]]
 
-
-
-
 ### types of testing techniques. 
-#### static testing
-
-code & associated documents are observed & tested manually.
-execution of code is not performed, only sanity of the code is checked. 
-
-- **review :** product is re-examined & re-evaluated for possible corrections. 
-- **walkthrough :** done on deployed code by *author*, author gives sample data, code results get recorded. 
-- **inspection :** done bye *quality improvement team*. step by step reading of the product, each step has criterias. 
-
-![[attachments/Pasted image 20230918031525.png]]
-
-during planning people ar eidentified and the roles are assigned to each of the identified person identifyng the entry and exit criteria. 
-during initiating the document to be reviewed is distributed nad the objectvives are explained
-verifying the entry criteria self preparation. 
-individual work is done by each of the participants on their won, marking the questions and the comments recording the results, rework the effect of fixing. & if any follow up.
-##### members of static testing 
-- **author :** writer of the document under review. 
-- **moderator :** one who leads the review process. 
-- **reader :** who presents the document. 
-- **recorder/scribe :** records each defect found & any suggestions or feedback given in the meeting. 
-- **inspector :** responsible for inspecting document.
-
-##### types of reviews 
-- **informal review**  peer programmer or tech lead will review the code. 
-- **walkthrough** led by author, again informal meeting. author reads the document and his team mates comes up with suggestions or defects. 
-- **technical review** team of experts examine technical quality of the artifact & identifies the discrepancies from specs and standards. 
-- **inspection** led by trained moderator who is not the author, most formal & driven by rules. makes use of entry & exit criteria. Inspection report is prepared & shared with the author
-#### dynamic testing
-- **black box testing**
-	- functionality of software is tested without knowledge of internal implementation of code. 
-	- tester will know the expected output and input. 
-	- also known as specification based testing. 
-	- **techniques for generating TC in black box**
-		- *equivalence class partitioning* 
-			- choose 3 values as test data one above range, one below range, one in the range.
-		- *boundary value analysis* 
-			- test cases are designed to find errors at boundary value. 
-			- test cases will be exactly the lower limit, upper limit, a value just below lower limit & value just above upper limit. 
-		- *cause effect analysis* 
-			- helps in identifying the causes and their effect associated with a particular problem or situation.
-			- A cause is an input condition or an equivalence class of input condition. 
-			- Effect is an output condition or a system transformation. 
-			- suitable for application in which combinations of input conditions are few.
-		- *error guessing* 
-			- ad hoc approach guided by intuition & experience. 
-			- consider a program is written into a file, following TCes can be derivd. 
-				- having an empty file. 
-				- not at all having a file. 
-				- having a file with read permission. 
-- **white box testing**
-	- also called glass box testing, structural testing or clear box testing. 
-	- use to check internal logic of code. 
-	- tester should have thorough knowledge of programming, language. 
-	- **[[Basis path testing]]**
-
-![[attachments/Pasted image 20230918174832.png]]
-
+- #### [[static testing]]
+- #### [[dynamic testing]]
+- 
 ![[attachments/Pasted image 20230919031525.png]]
 
 
