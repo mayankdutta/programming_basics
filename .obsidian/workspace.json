@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Testing.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -187,13 +187,17 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "acceptance.md",
+    "Testing.md",
+    "system testing.md",
+    "integration.md",
+    "unit.md",
     "index.md",
     "Requirement analysis.md",
     "Test.md",
     "attachments/Screenshot 2023-09-22 at 3.04.28 AM.png",
     "attachments/Pasted image 20230922030431.png",
     "attachments/Pasted image 20230922030416.png",
-    "Testing.md",
     "attachments/Pasted image 20230922025315.png",
     "attachments/Pasted image 20230922025258.png",
     "SRS.md",
@@ -218,9 +222,6 @@
     "tests.md",
     "attachments/Pasted image 20230922003042.png",
     "Coupling.md",
-    "Cohesion.md",
-    "configuration.md",
-    "Basis path testing.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments",
     "package v",

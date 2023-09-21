@@ -1,0 +1,22 @@
+- performed on complete integrated system from end to end perspective. 
+- conducted by testers to find if any diff between implementation & specification.
+- **unbiased system testing** involves testing both functional & non-functional requirements. 
+- **functional testing** verifies that each function of the application works as per the requirement specification. 
+- **non-functional testing** checks the performance, accessibility, reliability & other requirements as specified in document. 
+- System testing involves 
+	- **functional testing**: test the implementation of the business needs. Each function work as per the requirement. 
+	- **performance testing**: it will test all the non functional requirements of the system specified in the specification. checks performance, accesiblity, reliability. 
+
+##### performance testing
+- **stress tests :** 
+	- evaluates the system when stressed to its limits. 
+	- aim is to test the system with the max to ensure it doesn't crash. 
+- **regression tests :** 
+	- required when system being tested is replacing an existing system.
+	- replacement because of defect fixing & rectifying the defect. 
+	- or enhancement of original system. 
+	- explain it more clearly #todo 
+- **usability tests :** 
+	- testing characteristics related to user friendliness. 
+	- done by user perspective. 
+	- easy to understandable and impresses the user.
