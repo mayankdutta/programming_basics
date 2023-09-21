@@ -6,7 +6,7 @@
 
 ### Phases of SDLC
 
-- **feasibility :** identify the issues that may be difficult or impossible to implement in terms of cost time tech during analysis phase.  
+- **feasibility :** (*possible to do*) identify the issues that may be difficult or impossible to implement in terms of cost time tech during analysis phase.  
 - **analysis :** 
 - **design :** helps in specifying hardware & system requirements & also helps in defining overall system architecture. 
 - **Coding / implement :** design is converted into workable solution

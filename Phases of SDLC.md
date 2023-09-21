@@ -4,8 +4,7 @@
 - SRS(*software requirement specification*) is the document prepare after the analysis phase. 
 
 ##### SRS
-all possible *requirements* of the system to be developed are *captured & documented* in a document called SRS d
-uring design system design is prepared based on the SRS system. 
+all possible *requirements* of the system to be developed are *captured & documented* in a document called SRS during design system design is prepared based on the SRS system. 
 
 #### Design 
 - software designs = 
@@ -42,7 +41,7 @@ uring design system design is prepared based on the SRS system.
 - software testing includes. 
 	- *verification*  software meets its technical specification. ensures that we are doing the product right? 
 	- *validation* software meets its customer/business requirements. ensures that we re doing the right product. 
-	- *Defect* variance b/w expected & actual result.
+	- *Defect* variance b/w expected & actual *result*.
 
 #### Maintenance 
 - Any change that is made to the software after it is deployed is known as its maintenance. 
