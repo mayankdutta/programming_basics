@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spiral model.md",
-                "mode": "preview",
+                "file": "software engineering & SDLC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiral model.md",
+                "file": "software engineering & SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiral model.md",
+                "file": "software engineering & SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiral model.md"
+                "file": "software engineering & SDLC.md"
               }
             }
           },
@@ -187,25 +187,26 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "software engineering.md",
+    "index.md",
+    "software engineering & SDLC.md",
+    "Phases of SDLC.md",
+    "SDLC.md",
+    "Software Development.md",
+    "Testing.md",
+    "Requirement analysis.md",
+    "Logic Development.md",
+    "Basis path testing.md",
+    "SRS.md",
+    "ERD.md",
+    "Spiral model.md",
     "incremental model.md",
     "Rapid application development.md",
     "Prototype Model.md",
     "V-Model.md",
     "Waterfall Model.md",
-    "Phases of SDLC.md",
-    "SDLC.md",
-    "Software Development.md",
-    "index.md",
-    "Logic Development.md",
     "Cohesion.md",
     "Coupling.md",
-    "Requirement analysis.md",
-    "ERD.md",
-    "SRS.md",
     "configuration.md",
-    "Basis path testing.md",
-    "Testing.md",
     "maintenance.md",
     "attachments/Pasted image 20230919161208.png",
     "attachments/Pasted image 20230919031525.png",
@@ -216,7 +217,6 @@
     "attachments/Pasted image 20230918031519.png",
     "attachments/Pasted image 20230918020047.png",
     "Requirements Engineering.md",
-    "Spiral model.md",
     "ETVX Model.md",
     "Test.md",
     "attachments/Pasted image 20230914221856.png",
