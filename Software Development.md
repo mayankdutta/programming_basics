@@ -19,3 +19,6 @@
 - use resources non-optimally. 
 
 **Software development process** involves transformation of user need into an effective software solution. 
+
+client's needs are analysed. 
+

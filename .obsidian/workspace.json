@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "incremental model.md",
-                "mode": "source",
+                "file": "software engineering & SDLC.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incremental model.md",
+                "file": "software engineering & SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "incremental model.md",
+                "file": "software engineering & SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "incremental model.md"
+                "file": "software engineering & SDLC.md"
               }
             }
           },
@@ -187,25 +187,25 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "software engineering & SDLC.md",
     "index.md",
-    "Phases of SDLC.md",
+    "software engineering & SDLC.md",
     "SDLC.md",
     "Software Development.md",
+    "Logic Development.md",
+    "Cohesion.md",
+    "Coupling.md",
+    "incremental model.md",
+    "Phases of SDLC.md",
     "Testing.md",
     "Requirement analysis.md",
-    "Logic Development.md",
     "Basis path testing.md",
     "SRS.md",
     "ERD.md",
     "Spiral model.md",
-    "incremental model.md",
     "Rapid application development.md",
     "Prototype Model.md",
     "V-Model.md",
     "Waterfall Model.md",
-    "Cohesion.md",
-    "Coupling.md",
     "configuration.md",
     "maintenance.md",
     "attachments/Pasted image 20230919161208.png",

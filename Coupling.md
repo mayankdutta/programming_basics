@@ -15,13 +15,16 @@
 two modules have write access to the same *global data*. 
 #### Control coupling
 - one module passes an element of control to the other. 
+- one module control the flow of other module. 
 - it is impossible for the widget module to function without some direction from controlling module. 
 - ![[attachments/Pasted image 20230914024259.png]]
 - Only when controlled module get some directions from the controlled module, it performs the operations.
 - In above example on passing error flag, it displays the error. 
 
 #### Stamp coupling
-Data structure is passed as parameter, but the called module operates on only some of the passed components. 
+- Data structure is passed as parameter, but the called module operates on only some of the passed components. 
+- Data structure is used to transfer the information.
+- part of information is used. 
 
 ![[attachments/Pasted image 20230914024408.png]]
 
