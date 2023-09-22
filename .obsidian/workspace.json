@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maintenance.md",
+                "file": "configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maintenance.md",
+                "file": "configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maintenance.md",
+                "file": "configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maintenance.md"
+                "file": "configuration.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "index.md",
-    "configuration.md",
     "maintenance.md",
+    "configuration.md",
     "Testing.md",
     "test testing.md",
     "attachments/Pre-Quiz_ Attempt review.png",

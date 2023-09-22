@@ -7,8 +7,6 @@
 3. **configuration sales accounting** provide status & information about a product & its configuration documentation. 
 4. **configuration audits** 
 
-
-
 configuration management is the process of coordinating the software development by tracking, modifying & controlling changes to the software. 
 
 #### why software config management is important. 
@@ -19,7 +17,6 @@ config management is responsible for managing & controlling the costs & efforts 
 
 
 #### software config management. (SCM)
-
 SCM defines. 
 - the types of documents to be managed & a document naming scheme
 - who takes responsibility for the CM procedures and creation of *baselines*. 
@@ -30,7 +27,18 @@ A baselines is a formally reviewed and approved document by the management that 
 
 SCM specifies the tools which should be used to assist the CM process and any limitations on their use. 
 
+#### effectiveness of SCM
 SCM is said to be effective
 - when every work product can be accounted for
 - when every work product or change made to it can be tracked and controlled.
+
+#### Configuration item (CI). 
+A configuration item is an aggregation of the hardware, software or both, that is designated for configuration management and treated as single entity in CM process. 
+Document naming scheme must be defined so that related documents might have related names
+
+
+#### types of configuration objects
+to ma
+- base object.
+- aggregate object. 
 
