@@ -72,7 +72,25 @@ describes the change history of an object.
 ### configuration repository
 all the CI(configuration items) are stored 
 centralized repository 
-configuration items available in the configuration management system will be in read only be default. 
+
+
+### checkin & checkout
+configuration items available in the configuration management system will be in read only be default.
+
+**checkin** is an operation used to make a developer's object version available to other users.
+**checkout** process that creates a new version of an object from an existing version stored in the database. 
+
+developers check out objects so they can work on them. 
+
+
+### change management 
+change management is the process during which the changes of a system are implemented in a controlled manner by following a predefined framework/model with some reasonable modifications. 
+
+#### Activities in change management 
+- filtering changes. 
+- managing changes and the change process. 
+- reviewing and closing of requests for change (RFCs).
+
 
 
 
