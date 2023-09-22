@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test configuration.md",
+                "file": "dynamic testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scribe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test configuration.md",
+                "file": "dynamic testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test configuration.md",
+                "file": "dynamic testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test configuration.md"
+                "file": "dynamic testing.md"
               }
             }
           },
@@ -199,32 +199,31 @@
   },
   "active": "6703553bce595f9d",
   "lastOpenFiles": [
+    "Testing.md",
+    "unit.md",
+    "system testing.md",
+    "index.md",
+    "Requirement analysis.md",
+    "Test.md",
+    "test configuration.md",
     "attachments/Pasted image 20230922223654.png",
     "attachments/Pasted image 20230922223637.png",
     "configuration.md",
-    "test configuration.md",
     "attachments/Pasted image 20230922163048.png",
-    "index.md",
     "maintenance.md",
-    "Testing.md",
     "test testing.md",
     "attachments/Pre-Quiz_ Attempt review.png",
     "attachments/Pasted image 20230922122714.png",
     "attachments/Pasted image 20230922122701.png",
-    "Test.md",
     "dynamic testing.md",
     "static testing.md",
     "acceptance.md",
-    "system testing.md",
     "integration.md",
-    "unit.md",
     "attachments/Pasted image 20230922120740.png",
-    "Requirement analysis.md",
     "Basis path testing.md",
     "attachments/Screenshot 2023-09-22 at 3.04.28 AM.png",
     "attachments/Pasted image 20230922030431.png",
     "attachments/Pasted image 20230922030416.png",
-    "attachments/Pasted image 20230922025315.png",
     "SRS.md",
     "Requirements Engineering.md",
     "ERD.md",
