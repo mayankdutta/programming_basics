@@ -59,3 +59,20 @@ to manage SCI(software configuration Item) they must be separately named & organ
 - Design specification is an aggregate object which comprises data design, architectural design, module design, interface design, data model & component
 
 
+
+## skipped 
+
+
+### Baseline 
+specification or product that has been formally reviewed and agreed upon, that thereafter serves as the basis for further development, and that can be changed only through formal change control procedures. 
+### Evolution graph
+describes the change history of an object. 
+
+
+### configuration repository
+all the CI(configuration items) are stored 
+centralized repository 
+configuration items available in the configuration management system will be in read only be default. 
+
+
+
