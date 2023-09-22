@@ -90,6 +90,14 @@ change management is the process during which the changes of a system are implem
 - filtering changes. 
 - managing changes and the change process. 
 - reviewing and closing of requests for change (RFCs).
+- management reporting & providing management information. 
+
+
+
+### synchronization control 
+- so that change should not overwrite. 
+- sync. control is mechanism of configuration management. 
+- It ensures parallel changes performed by two different people don't overwrite 
 
 
 
