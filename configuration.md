@@ -60,11 +60,9 @@ to manage SCI(software configuration Item) they must be separately named & organ
 - double-headed straight arrow indicates an *interrelationship*
 - ![[attachments/Pasted image 20230922163048.png]]
 - Design specification is an *aggregate object* which comprises data design, architectural design, module design, interface design, data model & component
-
-
-
-## skipped 
-
+- and have compositional relation with the design specification & are thus indicated by *curved arrow*. 
+- *double headed arrow* between source code, component test specification and design specification.
+- Specifies the interrelationships if a change were made to the source. 
 
 ### Baseline 
 specification or product that has been formally reviewed and agreed upon, that thereafter serves as the basis for further development, and that can be changed only through formal change control procedures. 
