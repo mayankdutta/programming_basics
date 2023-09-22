@@ -5,7 +5,11 @@
 - **non-functional testing** checks the performance, accessibility, reliability & other requirements as specified in document. 
 - System testing involves 
 	- **functional testing**: test the implementation of the business needs. Each function work as per the requirement. 
-	- **performance testing**: it will test all the non functional requirements of the system specified in the specification. checks performance, accesiblity, reliability. 
+	- **performance testing**: it will test all the non functional requirements of the system specified in the specification. checks performance, accessibility, reliability, *stability*, *response time*.
+		- change load and measure response time. 
+		- *stability*: how much people it can withstand. 
+		- *response time*: 
+		- *load*: no of users. 
 
 ##### performance testing
 - **stress tests :** 
@@ -20,3 +24,6 @@
 	- testing characteristics related to user friendliness. 
 	- done by user perspective. 
 	- easy to understandable and impresses the user.
+		- uncover design problems
+		- learn about user's behaviour 
+	- ![[attachments/Pasted image 20230922120740.png]]

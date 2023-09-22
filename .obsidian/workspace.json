@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static testing.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -187,16 +187,17 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
-    "Testing.md",
-    "dynamic testing.md",
-    "Basis path testing.md",
-    "static testing.md",
-    "acceptance.md",
     "system testing.md",
-    "integration.md",
-    "unit.md",
+    "attachments/Pasted image 20230922120740.png",
+    "Testing.md",
     "index.md",
     "Requirement analysis.md",
+    "static testing.md",
+    "dynamic testing.md",
+    "Basis path testing.md",
+    "acceptance.md",
+    "integration.md",
+    "unit.md",
     "Test.md",
     "attachments/Screenshot 2023-09-22 at 3.04.28 AM.png",
     "attachments/Pasted image 20230922030431.png",
@@ -220,9 +221,7 @@
     "V-Model.md",
     "Waterfall Model.md",
     "Phases of SDLC.md",
-    "maintenance.md",
     "attachments/Pasted image 20230922003042.png",
-    "attachments/Pasted image 20230919161208.png",
     "attachments",
     "package v",
     "package.json v",
