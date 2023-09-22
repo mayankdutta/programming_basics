@@ -187,6 +187,8 @@
   "active": "bae4997740878954",
   "lastOpenFiles": [
     "index.md",
+    "configuration.md",
+    "maintenance.md",
     "Testing.md",
     "test testing.md",
     "attachments/Pre-Quiz_ Attempt review.png",
@@ -220,7 +222,6 @@
     "Rapid application development.md",
     "Prototype Model.md",
     "V-Model.md",
-    "Waterfall Model.md",
     "attachments",
     "package v",
     "package.json v",
