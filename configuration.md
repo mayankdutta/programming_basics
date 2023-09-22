@@ -10,11 +10,10 @@
 configuration management is the process of coordinating the software development by tracking, modifying & controlling changes to the software. 
 
 #### why software config management is important. 
-Software config is important because new versions of software systems are created as they get changed for different OS 
-diff. functionalities that aren't present in the previous version might be needed. 
-
-config management is responsible for managing & controlling the costs & efforts involved in making changes to a system. 
-
+- Software config is important because new versions of software systems are created as they get changed for different OS 
+- diff. functionalities that aren't present in the previous version might be needed. 
+- config management is responsible for managing & controlling the costs & efforts involved in making changes to a system. 
+- SRS design documents, source code, testing reports etc. These artifacts need to be accessed and modified by multiple team 
 
 #### software config management. (SCM)
 SCM defines. 
@@ -112,6 +111,22 @@ change management is the process during which the changes of a system are implem
 - takes decision whether or not the proposed to a software project should be implemented. 
 - If accepted the code will be given to the dev to make the relevant changes. 
 
+#### phases of CCB
+- evaluation 
+- resolution 
+- verification. 
+- when a change is made it is then evaluated by CCB. they analyze the impact of change and cost. 
 
+
+### version management 
+- to tackle the frequent changes 
+- version control mechanism can be used to maintain multiple versions of a software project or files or documents. 
+
+
+#### adv
+- automatic backup is the main advantage 
+- can be rolled back to previous versions
+- comparison b/w two files is possible
+- 
 
 
