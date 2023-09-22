@@ -24,6 +24,7 @@
 - also called glass box testing, structural testing or clear box testing. 
 - use to check internal logic of code. 
 - tester should have thorough knowledge of programming, language. 
+- dynamic behaviour of the code to be analysed.
 - **[[Basis path testing]]**
 
 ![[attachments/Pasted image 20230918174832.png]]

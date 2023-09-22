@@ -63,3 +63,7 @@ Bugs reported to dev, then regression testing is performed when its done the def
 	- identify exact place in the code that is the cause of the problem.
 	- fix the detect. 
 	- recheck to ensure that the defect fixed is working as expected. 
+
+### [[test testing]]
+
+

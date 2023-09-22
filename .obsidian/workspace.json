@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static testing.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static testing.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -187,7 +187,11 @@
   },
   "active": "bae4997740878954",
   "lastOpenFiles": [
+    "test testing.md",
+    "attachments/Pasted image 20230922122714.png",
+    "attachments/Pasted image 20230922122701.png",
     "Testing.md",
+    "Test.md",
     "dynamic testing.md",
     "static testing.md",
     "acceptance.md",
@@ -198,7 +202,6 @@
     "index.md",
     "Requirement analysis.md",
     "Basis path testing.md",
-    "Test.md",
     "attachments/Screenshot 2023-09-22 at 3.04.28 AM.png",
     "attachments/Pasted image 20230922030431.png",
     "attachments/Pasted image 20230922030416.png",
@@ -217,11 +220,8 @@
     "incremental model.md",
     "Rapid application development.md",
     "Prototype Model.md",
-    "attachments/Pasted image 20230922020758.png",
     "V-Model.md",
     "Waterfall Model.md",
-    "Phases of SDLC.md",
-    "attachments/Pasted image 20230922003042.png",
     "attachments",
     "package v",
     "package.json v",
