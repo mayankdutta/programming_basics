@@ -15,11 +15,11 @@ strategies for software changes, such as
 - process of modifying a software system or component after delivery to correct faults, improve performance. 
 
 ##### Architectural transformation 
-- generally change from a centralized to a distributed architecture. 
+- generally change from a centralised to a distributed architecture. 
 
 ##### Software re-engineering 
 - no new functionality is added to system. 
-- it is restructured & reorganized to facilitate future changes. 
+- it is restructured & reorganised to facilitate future changes. 
 
 #### types of maintenance. 
 - **corrective** concerned with fixing errors, observed when the software is in the use. 
