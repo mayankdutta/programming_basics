@@ -126,7 +126,7 @@ change management is the process during which the changes of a system are implem
 #### adv
 - automatic backup is the main advantage 
 - can be rolled back to previous versions
-- comparison b/w two files is possible
+- comparison b/w two files is possible.
 - 
 
 

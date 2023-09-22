@@ -139,14 +139,6 @@
             }
           },
           {
-            "id": "c30e43563a233669",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "e0b94d59dc9b3bd4",
             "type": "leaf",
             "state": {
@@ -162,6 +154,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "cf1db01499e674fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
