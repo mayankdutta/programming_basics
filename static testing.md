@@ -5,23 +5,30 @@ Code & associated documents are observed & tested manually.
 	- product is re-examined & re-evaluated for possible corrections. 
 	- easier to find & debug error.
 	- done manually 
+	- 
+	- ![[attachments/Pasted image 20230918031525.png]]
+	- type of reviews
+		- informal 
+		- walkthrough 
+		- technical review 
+		- inspection
 - **walkthrough :** 
 	- done on deployed code by *author*, 
 	- mostly done on the code
 	- author explains the content of the documents step by step and ask for suggestions.
-	- *how to correct it* isn't provided in this stage. 
+	- *how to correct it* isn't provided in this stage.
 - **inspection :** 
 	- done bye *quality improvement team*. step by step reading of the product, each step *has criteria*. 
 	- approved and sign off to next
 	- can be accepted with minor errors and send to the next stage. 
 	- need to re-work completely. 
 
-![[attachments/Pasted image 20230918031525.png]]
+
 
 during planning people are identified and the roles are assigned to each of the identified person identifyng the entry and exit criteria. 
 during initiating the document to be reviewed is distributed and the objectvives are explained
 verifying the entry criteria self preparation. 
-individual work is done by each of the participants on their won, marking the questions and the comments recording the results, rework the effect of fixing. & if any follow up.
+individual work is done by each of the participants on their on, marking the questions and the comments recording the results, re-work the effect of fixing. & if any follow up.
 #### members of static testing 
 - **author :** writer of the document under review. 
 - **moderator :** one who leads the review process. 
