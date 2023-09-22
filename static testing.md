@@ -5,13 +5,7 @@ Code & associated documents are observed & tested manually.
 	- product is re-examined & re-evaluated for possible corrections. 
 	- easier to find & debug error.
 	- done manually 
-	- 
 	- ![[attachments/Pasted image 20230918031525.png]]
-	- type of reviews
-		- informal 
-		- walkthrough 
-		- technical review 
-		- inspection
 - **walkthrough :** 
 	- done on deployed code by *author*, 
 	- mostly done on the code
@@ -25,8 +19,8 @@ Code & associated documents are observed & tested manually.
 
 
 
-during planning people are identified and the roles are assigned to each of the identified person identifyng the entry and exit criteria. 
-during initiating the document to be reviewed is distributed and the objectvives are explained
+during planning people are identified and the roles are assigned to each of the identified person identifying the entry and exit criteria. 
+during initiating the document to be reviewed is distributed and the objectives are explained
 verifying the entry criteria self preparation. 
 individual work is done by each of the participants on their on, marking the questions and the comments recording the results, re-work the effect of fixing. & if any follow up.
 #### members of static testing 
@@ -39,5 +33,5 @@ individual work is done by each of the participants on their on, marking the que
 #### types of reviews 
 - **informal review**  peer programmer or tech lead will review the code. 
 - **walkthrough** led by author, again informal meeting. author reads the document and his team mates comes up with suggestions or defects. 
-- **technical review** team of experts examine technical quality of the artifact & identifies the discrepancies from specs and standards. 
+- **technical review** team of experts examine technical quality of the artifacts & identifies the discrepancies from specs and standards. 
 - **inspection** led by trained moderator who is not the author, most formal & driven by rules. makes use of entry & exit criteria. Inspection report is prepared & shared with the author

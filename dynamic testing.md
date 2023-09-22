@@ -8,14 +8,14 @@
 	- *boundary value analysis* 
 		- test cases are designed to find errors at boundary value. 
 		- test cases will be exactly the lower limit, upper limit, a value just below lower limit & value just above upper limit. 
-	- *cause effect analysis* 
+	- *cause effect analysis & graphing* 
 		- helps in identifying the causes and their effect associated with a particular problem or situation.
 		- A cause is an input condition or an equivalence class of input condition. 
 		- Effect is an output condition or a system transformation. 
 		- suitable for application in which combinations of input conditions are few.
 	- *error guessing* 
 		- ad hoc approach guided by intuition & experience. 
-		- consider a program is written into a file, following TCes can be derivd. 
+		- consider a program is written into a file, following TCes can be derived. 
 			- having an empty file. 
 			- not at all having a file. 
 			- having a file with read permission. 

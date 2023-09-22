@@ -35,8 +35,8 @@ Bugs reported to dev, then regression testing is performed when its done the def
 - [[acceptance]]
 
 ### types of testing techniques. 
-- #### [[static testing]]
-- #### [[dynamic testing]]
+- ##### [[static testing]]
+- ##### [[dynamic testing]]
 - 
 ![[attachments/Pasted image 20230919031525.png]]
 
