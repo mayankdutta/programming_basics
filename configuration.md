@@ -1,11 +1,13 @@
+SRS design documents, source code, testing reports etc. These artifacts need to be accessed and modified by multiple team, how to do it? **software configuration management**
+
+### configuration
 
 **configuration** a configuration is the functional and physical characteristics of a hardware or software set forth in technical documentation or achieved in a product. 
-
 #### configuration management 
-1. **configuration identification** define the product & its configuration documentation identification
-2. **change management** control changes to a product & its configuration documentation
-3. **configuration status accounting** provide status & information about a product & its configuration documentation. 
-4. **configuration audits** 
+1. **configuration identification** identifies the configuration items & labels each item with unique identifiers.
+2. **change management** tracking and controlling the changes during development. 
+3. **configuration status accounting** status and various information about configuration item 
+4. **configuration audits** responsible for reviewing the items against 
 
 configuration management is the process of coordinating the software development by tracking, modifying & controlling changes to the software. 
 
@@ -13,7 +15,7 @@ configuration management is the process of coordinating the software development
 - Software config is important because new versions of software systems are created as they get changed for different OS 
 - diff. functionalities that aren't present in the previous version might be needed. 
 - config management is responsible for managing & controlling the costs & efforts involved in making changes to a system. 
-- SRS design documents, source code, testing reports etc. These artifacts need to be accessed and modified by multiple team 
+
 
 #### software config management. (SCM)
 SCM defines. 
