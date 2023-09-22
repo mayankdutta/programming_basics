@@ -56,6 +56,6 @@ to manage SCI(software configuration Item) they must be separately named & organ
 - double-headed straight arrow indicates an interrelationship
 - 
 - ![[attachments/Pasted image 20230922163048.png]]
-- 
+- Design specification is an aggregate object which comprises data design, architectural design, module design, interface design, data model & component
 
 
