@@ -97,7 +97,16 @@ change management is the process during which the changes of a system are implem
 ### synchronization control 
 - so that change should not overwrite. 
 - sync. control is mechanism of configuration management. 
-- It ensures parallel changes performed by two different people don't overwrite 
+- It ensures parallel changes performed by two different people don't overwrite by two different people done't overwrite one another. 
+- the user can obtain a lock on the object in the database. 
+	- This will disable other users for accessing or updating that object until the currently checked out  version has been replaced. 
+	- thereby releasing the lock. 
+
+
+### change control board (CCB)
+- client may come up with changes 
+- changes cannot be directly reoprted to concerend person in the developement team. 
+- It will m
 
 
 
