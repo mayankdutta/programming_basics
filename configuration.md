@@ -105,8 +105,12 @@ change management is the process during which the changes of a system are implem
 
 ### change control board (CCB)
 - client may come up with changes 
-- changes cannot be directly reoprted to concerend person in the developement team. 
-- It will m
+- changes cannot be directly reported to concernd person in the developement team. 
+- Its impact will be in all phases. 
+- All changes sent through the Change control board CCB or the software change control board SCCB. 
+- it is a committee that accepts the change requests, analyzes 
+- takes decision whether or not the proposed to a software project should be implemented. 
+- If accepted the code will be given to the dev to make the relevant changes. 
 
 
 
