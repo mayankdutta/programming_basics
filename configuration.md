@@ -38,7 +38,24 @@ Document naming scheme must be defined so that related documents might have rela
 
 
 #### types of configuration objects
-to ma
-- base object.
-- aggregate object. 
+to manage SCI(software configuration Item) they must be separately named & organised using Object Oriented approach. 
+- **base object** 
+	- a base object is the *unit of text* that has been created by a software engineer during analysis, code, design or test
+	- *ex.*
+		- section of a requirement specification. 
+		- a source listing for a component. 
+		- a suite of test cases that are used to exercise code. 
+- **aggregate object**
+	- collection of base objects & other aggregate objects. 
+	- *ex.*
+		- design specification is an aggregate object which comprises Data design, Architectural design, module design, interface design. 
+
+
+#### relationship b/w configuration objects
+- curved arrow indicates a compositional relation. 
+- double-headed straight arrow indicates an interrelationship
+- 
+- ![[attachments/Pasted image 20230922163048.png]]
+- 
+
 
