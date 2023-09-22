@@ -123,6 +123,11 @@ change management is the process during which the changes of a system are implem
 ### version management 
 - to tackle the frequent changes 
 - version control mechanism can be used to maintain multiple versions of a software project or files or documents. 
+- it allow user
+	- to lock file so they can only edited by one person. (*forcing serialized change to any given file*)
+	- track changes to file
+	- to instant recall of any work from any point in time. 
+- maintain instant audit rail on each & every file. 
 
 
 #### adv
@@ -132,3 +137,6 @@ change management is the process during which the changes of a system are implem
 - 
 
 
+
+
+## [[test configuration]]

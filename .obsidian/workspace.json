@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6703553bce595f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configuration.md",
+                "file": "test configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configuration.md",
+                "file": "test configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configuration.md"
+                "file": "test configuration.md"
               }
             }
           },
@@ -184,12 +197,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bae4997740878954",
+  "active": "6703553bce595f9d",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230922223654.png",
+    "attachments/Pasted image 20230922223637.png",
+    "configuration.md",
+    "test configuration.md",
     "attachments/Pasted image 20230922163048.png",
     "index.md",
     "maintenance.md",
-    "configuration.md",
     "Testing.md",
     "test testing.md",
     "attachments/Pre-Quiz_ Attempt review.png",
@@ -209,19 +225,16 @@
     "attachments/Pasted image 20230922030431.png",
     "attachments/Pasted image 20230922030416.png",
     "attachments/Pasted image 20230922025315.png",
-    "attachments/Pasted image 20230922025258.png",
     "SRS.md",
     "Requirements Engineering.md",
     "ERD.md",
     "software engineering fundamentals.md",
     "Software Development.md",
-    "attachments/Pasted image 20230922022637.png",
     "SDLC.md",
     "Spiral model.md",
     "ETVX Model.md",
     "incremental model.md",
     "Rapid application development.md",
-    "Prototype Model.md",
     "attachments",
     "package v",
     "package.json v",
